@@ -1,0 +1,245 @@
+{
+  "meta": {
+    "stamp": "2026-10-14-0736",
+    "provider": "apify",
+    "windowHours": 48,
+    "queries": 24,
+    "rawCount": 124,
+    "keptCount": 9,
+    "generatedAt": "2026-10-14T07:37:04.606Z",
+    "referenceTime": "2026-10-14T07:37:04.362Z",
+    "minViews": 2000,
+    "widened": true,
+    "attempts": [
+      {
+        "windowHours": 24,
+        "kept": 4
+      },
+      {
+        "windowHours": 48,
+        "kept": 9
+      }
+    ],
+    "uniqueReels": 122,
+    "dropped": {
+      "noData": 0,
+      "lowViews": 2,
+      "tooOld": 110,
+      "offTopic": 1
+    },
+    "inputDir": "data/raw/search-2026-10-14-0736",
+    "files": 24
+  },
+  "hits": [
+    {
+      "id": "ig-debpr21xvjp",
+      "url": "https://www.instagram.com/reel/DebpR21xVJP/",
+      "creator": "adikfoods",
+      "caption": "Tak perlu minyak, rebus je pun boleh dapat macam kena tumis Ayam Cili Rebus ni. Minyak dari ayam tu akan keluar nanti. Moh le buat!\n.\n🅱️Bahan-bahan\n4 ketul ayam whole leg - potong kecil atau seekor ayam\n1 paket besar Perencah Nasi Goreng Cina Adabi\n2 sdb kicap Lemak Manis Adabi\n1 sdk pes asam jawa\n1 sdb cuka masakan (jika suka)\n20g gula batu\n1 biji bawang besar\n2 pokok daun bawang\n▪️Bahan kisar\n7 biji cili merah\n15 biji cili padi\n7 biji bawang merah kecil\n3 ulas bawang putih\n1 in halia muda\n.\n#homemade #cooking #mealprep #food #yummy",
+      "cover": "https://scontent-cph2-1.cdninstagram.com/v/t51.82787-15/845961885_18652764688057196_7208965093443057330_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=111&ig_cache_key=NDAwNjk3Nzg0MDQ5ODQzMDU0MzE4NjUyNzY0NjgyMDU3MTk2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fdXNlcl9zZWxlY3RlZF90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=2J-oPXIENkgQ7kNvwEYfUh9&_nc_oc=AdpYDXBfemGHpVUn3qaJsl780ENJQTffU4sqSg3HtataCz5Qh79Ydox61QpCGg_PCRxtvE-SbZLQVre5piFv-QbB&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=TgKGvcAUQ-Ihk3bxOkNquw&_nc_ss=7a3ba&oh=00_AQM0jAboY3OvLuAh201eTe05aXNEL_tRADgC4gdaijr3bA&oe=6AD4F3DA",
+      "views": 57844,
+      "likes": 1631,
+      "comments": 12,
+      "postedAt": "2026-10-13T10:58:45.000Z",
+      "hoursAgo": 20.6,
+      "viewsPerHour": 2803,
+      "outlier": null,
+      "engagementRate": 0.0325,
+      "clusters": [
+        "nutrition"
+      ],
+      "foundBy": [
+        "meal prep"
+      ],
+      "suspicious": false,
+      "provider": "apify"
+    },
+    {
+      "id": "ig-dezbrzyodlg",
+      "url": "https://www.instagram.com/reel/DeZBRZyODLg/",
+      "creator": "kanak_gurnani",
+      "caption": "Kids love cheese balls… but who says they need to be deep-fried? 🧀😍\n\nThese Non-Fried Cheese Balls are crispy outside, cheesy inside & loaded with veggies! ❤️\n\nAnd the best part? No deep frying!\n\nJust a little oil and your good old appe pan. ✨\n\nPerfect for after-school hunger, evening snacks or weekend cravings!\n\nSame cheesy goodness, just a healthier twist! 😋\n\n📌 Save this recipe for your next snack time!\n\n❤️ Detailed recipe pinned in comments!\n\n#KidsSnacks #CheeseBalls #HealthySnacks #NonFriedSnacks #KidsRecipes\n\n[non fried cheese balls, healthy cheese balls for kids, appe pan recipes, kids evening snacks, easy vegetarian snacks, no deep fry recipes]",
+      "cover": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/844070654_18646713052052313_2516330664416874079_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=102&ig_cache_key=NDAwNjIzODkzNzQ4NjQ3MTkwNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjU0MC5zZHIudmlkZW9fdXNlcl9zZWxlY3RlZF90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=zOvk2Nd0jdkQ7kNvwHXArpP&_nc_oc=AdoCJ8SXCpDS8PggbM8mUYCwk2RRTI5ColNhx1MhwEBeW7i_HFOfQM1NN3dfIgXBtII&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=a2PE0FpuC631-S8l7dU1cg&_nc_ss=7a3ba&oh=00_AQOMP3osy-VcugwvuQfk_WeJ3ppJI81s2b0_8UcJ7b1BUw&oe=6AD4F0C0",
+      "views": 116242,
+      "likes": 848,
+      "comments": 44,
+      "postedAt": "2026-10-12T10:30:01.000Z",
+      "hoursAgo": 45.1,
+      "viewsPerHour": 2576,
+      "outlier": null,
+      "engagementRate": 0.0133,
+      "clusters": [
+        "nutrition",
+        "transformations"
+      ],
+      "foundBy": [
+        "healthy snacks"
+      ],
+      "suspicious": false,
+      "provider": "apify"
+    },
+    {
+      "id": "ig-decqtpstisc",
+      "url": "https://www.instagram.com/reel/DecqtpstISC/",
+      "creator": "lulaindee",
+      "caption": "This isn’t the most “aesthetic” what I eat in a day - but this is my real life. I unfortunately don’t get to make a lunch from scratch at home everyday like a lot of content creators you might see! My snacks and lunches are spent hunched over my desk while a student comes in needing my help mid-bite lol. I hope this shows you a realistic & balanced day of eating to inspire you to make good food that’ll also make you feel good! My weeks are always better when I meal prep in advance like I did this week ✨\n\nLunch salad IB: @thecarolinalifestyle \n.\n.\n#whatieatinaday #wieiad #9to5 #nursing #explorepage",
+      "cover": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/844917782_18634955362012495_808115245051223690_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=100&ig_cache_key=NDAwNzI2NTYyMzU1NjI2MDk5NDE4NjM0OTU1MzU5MDEyNDk1.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fdXNlcl9zZWxlY3RlZF90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=SWkutj3JQXkQ7kNvwH8WHm-&_nc_oc=AdrZX9thwCrRCjpKk8rR2WLcpuQ_lK1JQU7-uxrVJZ3qLgXIVgnDF3GjmVYMJa0HXdY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=EPEWWIoAmkdySyFK8VF58A&_nc_ss=7a3ba&oh=00_AQP3xFRXDpemwsllIduUQsgygP7jYITDXr6CmobsvO8n0A&oe=6AD51BA3",
+      "views": 22864,
+      "likes": 1015,
+      "comments": 31,
+      "postedAt": "2026-10-13T20:30:27.000Z",
+      "hoursAgo": 11.1,
+      "viewsPerHour": 2058,
+      "outlier": null,
+      "engagementRate": 0.0467,
+      "clusters": [
+        "home",
+        "nutrition"
+      ],
+      "foundBy": [
+        "what I eat in a day"
+      ],
+      "suspicious": false,
+      "provider": "apify"
+    },
+    {
+      "id": "ig-decveyxvljt",
+      "url": "https://www.instagram.com/reel/DecvEyXvljt/",
+      "creator": "malcolm_alexanderr",
+      "caption": "Great for meal prep or even for events like game day!\n\ningredients:\n* 1 1/b lbs 93% lean ground beef \n* 12oz box protein wheat pasta\n* 1/2 cup blended low fat cottage cheese \n* 1 container of mushrooms \n* 15oz jar tomato sauce \n* 2 tbsp ketchup \n* 1 tbsp Dijon or yellow mustard \n* 1 tbsp Worcestershire sauce \n* 1 tbsp dill pickle juice \n* 1 cup nonfat milk\n* 1 1/2 cups low sodium beef broth \n* 1/2 cup shredded cheddar cheese \n\n#mealprep #crockpotrecipes #healthymealideas #budget #budgeting",
+      "cover": "https://scontent-cph2-1.cdninstagram.com/v/t51.82787-15/849058118_18653219002015116_5973505465096072398_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=105&ig_cache_key=NDAwNzI4NDgwNTYwMjI2OTQyMTE4NjUzMjE4OTk5MDE1MTE2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fdXNlcl9zZWxlY3RlZF90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=FEumugmKZCIQ7kNvwHdN4Vd&_nc_oc=AdrpUgNb1HxQsIivZKEA2aboClETCqIZQkwL7T5QC04Br4F5heXOLyFyzjp-oO7nEptL2GIZYPDuPjPI54Gh1qUX&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=TgKGvcAUQ-Ihk3bxOkNquw&_nc_ss=7a3ba&oh=00_AQP1Cnob7CHJnPWY2bxc76VNkkN_L1RNfxwO_VUfcTQXfQ&oe=6AD5199C",
+      "views": 14137,
+      "likes": 745,
+      "comments": 30,
+      "postedAt": "2026-10-13T21:09:42.000Z",
+      "hoursAgo": 10.5,
+      "viewsPerHour": 1352,
+      "outlier": null,
+      "engagementRate": 0.0594,
+      "clusters": [
+        "nutrition"
+      ],
+      "foundBy": [
+        "meal prep"
+      ],
+      "suspicious": false,
+      "provider": "apify"
+    },
+    {
+      "id": "ig-deacnkfv3ps",
+      "url": "https://www.instagram.com/reel/DeacnKFv3ps/",
+      "creator": "andrew_kevorkian",
+      "caption": "This week’s meal prep is ready 💪\n\n2,715 cal | 235g protein per day\nSteak & pasta bowls, pepperoni pizza bowls, Greek yogurt fruit bowl, and breakfast. Real food, no suffering…maybe..\n\nWhich meal would you try first? 👇\n\nMacros tracked with MacroFactor — link in bio to try it\n\n#mealprep #mealprepmonday #highprotein #highproteinmeals #macros",
+      "cover": "https://scontent-cph2-1.cdninstagram.com/v/t51.82787-15/843458401_18644395771027991_5903569097995840066_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=101&ig_cache_key=NDAwNjY0MDY1NDY5NTIzNDE1NjE4NjQ0Mzk1NzY4MDI3OTkx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjk0MS5zZHIudmlkZW9fdXNlcl91cGxvYWRlZF90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=uE8Cv3gHP7kQ7kNvwG9Mpyb&_nc_oc=AdpYZccurKrRSEO9hmR9FHOQePqoF0CjR-y-SY_weqTTTe901lR4lv0-04QVe21BG4Gc110T8C17kvFp9sarkhcf&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=TgKGvcAUQ-Ihk3bxOkNquw&_nc_ss=7a3ba&oh=00_AQOmfuItU6yNgYqHN40qUEADgh8hB_lBKAtO55iKerihVQ&oe=6AD4FAAB",
+      "views": 15666,
+      "likes": 872,
+      "comments": 11,
+      "postedAt": "2026-10-12T23:54:20.000Z",
+      "hoursAgo": 31.7,
+      "viewsPerHour": 494,
+      "outlier": null,
+      "engagementRate": 0.064,
+      "clusters": [
+        "nutrition"
+      ],
+      "foundBy": [
+        "meal prep"
+      ],
+      "suspicious": false,
+      "provider": "apify"
+    },
+    {
+      "id": "ig-decfqu0puuo",
+      "url": "https://www.instagram.com/reel/DecfQu0PUUO/",
+      "creator": "andrew_kevorkian",
+      "caption": "Breakfasts are prepped for the week ✅\n\n580 cal | 29g protein per box — 2 hard-boiled eggs, 2 hashbrowns, 2 turkey sausage links, and 6 mini protein pancakes. Diner breakfast energy, macro plan results.\n\nWhich box are you grabbing first? 👇\n\nTracked with MacroFactor — link in bio to try it\n\n#mealprep #highprotein #macros #mealprepideas #practicalmacros",
+      "cover": "https://scontent-cph2-1.cdninstagram.com/v/t51.82787-15/849772624_18644394040027991_7813869159105865359_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=111&ig_cache_key=NDAwNzIxNTI1NzY3NDkyNTMyNjE4NjQ0Mzk0MDM3MDI3OTkx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjk0MS5zZHIudmlkZW9fdXNlcl91cGxvYWRlZF90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=ZhL0UDac3iEQ7kNvwEgRj22&_nc_oc=AdqCHE8Cl5CkVog35CXJzp27iJdQkaQTMU0JbVWZ0uBZ8GVLTHORlRgH6knvTl-gXFpGaNnnIdPTUn_lgJ564TZS&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=TgKGvcAUQ-Ihk3bxOkNquw&_nc_ss=7a3ba&oh=00_AQMxGiB_9-rczUdtpbozy9uuqMGhzei0p7HEwlYcZ4LbVw&oe=6AD50344",
+      "views": 5941,
+      "likes": 308,
+      "comments": 2,
+      "postedAt": "2026-10-13T19:00:50.000Z",
+      "hoursAgo": 12.6,
+      "viewsPerHour": 471,
+      "outlier": null,
+      "engagementRate": 0.0598,
+      "clusters": [
+        "nutrition",
+        "transformations"
+      ],
+      "foundBy": [
+        "meal prep"
+      ],
+      "suspicious": false,
+      "provider": "apify"
+    },
+    {
+      "id": "ig-dez8ju7px5u",
+      "url": "https://www.instagram.com/reel/DeZ8Ju7pX5u/",
+      "creator": "tayunfiltered",
+      "caption": "Because not continuing to live the cycle that was taught to you from birth in a world that makes it seem normal is a feat that doesn’t get near enough recognition and praise. 🤸🏼‍♀️❤️‍🔥🙌🏻",
+      "cover": "https://scontent-bru2-1.cdninstagram.com/v/t51.82787-15/845057684_18019223258938186_572330917316858286_n.jpg?stp=dst-jpg_e15_p360x360_tt6&_nc_cat=107&ig_cache_key=NDAwNjQ5Nzg5NTE4MTU0OTE2NjE4MDE5MjIzMjU1OTM4MTg2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwOTguc2RyLnZpZGVvX3VzZXJfdXBsb2FkZWRfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=nn9qAUj9_HoQ7kNvwFXJPHa&_nc_oc=AdodhkRFeGXjtshQbYYe7p_SsfpaJClr-ng4rqo5MifulXpxoxlrrXhe0cirjed_xBc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_gid=QAoGuNIL-uiMBm5drv98-A&_nc_ss=7a3ba&oh=00_AQOZKIOlRn6XxjGIKwvsGSLy-Hf1Mz1cmfqdRuAkcQuN0w&oe=6AD4FC7D",
+      "views": 17129,
+      "likes": 1349,
+      "comments": 2,
+      "postedAt": "2026-10-12T19:03:44.000Z",
+      "hoursAgo": 36.6,
+      "viewsPerHour": 469,
+      "outlier": null,
+      "engagementRate": 0.0817,
+      "clusters": [
+        "hormonal"
+      ],
+      "foundBy": [
+        "diet tips"
+      ],
+      "suspicious": false,
+      "provider": "apify"
+    },
+    {
+      "id": "ig-deayzjcoj8y",
+      "url": "https://www.instagram.com/reel/DeaYzJcOj8y/",
+      "creator": "antoinettelisa",
+      "caption": "meal prep w/ me ! It’s a new week sis let’s get it!🔥\nfat loss +muscle gain \n\nbreakfast- egg bites: eggs cottage cheese red peppers and turkey sausage + spinach \n\nprotein: chicken breast + salmon \ncarbs: Japanese sweet potato + sweet potato\nveggies: cucumber salad + broccoli \n\n.\n#mealprep #eatclean #gymgirl #explore #fitness",
+      "cover": "https://scontent-cph2-1.cdninstagram.com/v/t51.82787-15/849672841_18628530205041474_1965068639908154666_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=111&ig_cache_key=NDAwNjYyMzg4NjQ0NjMxMzI2NjE4NjI4NTMwMTk5MDQxNDc0.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fdXNlcl91cGxvYWRlZF90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=cSL4N2PW4U4Q7kNvwFZXGu_&_nc_oc=AdoHDc4-DQkKHxwGYLjFO7W250clHTY79iIwWifK1bewvuqHAv9aD6CFmAZ4QwLEOQwxNY_0gib_sCoMeFEBNkhM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=TgKGvcAUQ-Ihk3bxOkNquw&_nc_ss=7a3ba&oh=00_AQNTqx2KGDmEXAN6jBmoid0vg8QqNjWLKGQnnBYiJxGCsQ&oe=6AD4E7A0",
+      "views": 12077,
+      "likes": 548,
+      "comments": 33,
+      "postedAt": "2026-10-12T23:24:09.000Z",
+      "hoursAgo": 32.2,
+      "viewsPerHour": 375,
+      "outlier": null,
+      "engagementRate": 0.0542,
+      "clusters": [
+        "fatloss",
+        "strength",
+        "nutrition"
+      ],
+      "foundBy": [
+        "meal prep"
+      ],
+      "suspicious": false,
+      "provider": "apify"
+    },
+    {
+      "id": "ig-dezv41qo_dt",
+      "url": "https://www.instagram.com/reel/DeZv41qo_dT/",
+      "creator": "ayushmd",
+      "caption": "Worth trying or nah??lemme know in the comment section 🥰🥰\n\nMy food processor from @bajikitchensnhousehold.\n\n#potato#explore#healthysnacks#healthysnacking#fyp",
+      "cover": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/847587357_18629028610014801_8876754111893001308_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=101&ig_cache_key=NDAwNjQ0Mzk1NzYyMzE5MTM3OTE4NjI5MDI4NjA0MDE0ODAx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyODQuc2RyLnZpZGVvX3VzZXJfc2VsZWN0ZWRfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=8IyDWbyWuI0Q7kNvwHxpcSC&_nc_oc=Ado00IE6_aH-lOOHmcnz20B4Op20-dFjhmzYLy4QofiYUjAtBtu7eGBIzCaH3mlZ1EU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=a2PE0FpuC631-S8l7dU1cg&_nc_ss=7a3ba&oh=00_AQPTJdyGV5X45rw0-9W2tGZWBuqAARq6k4JOVep71lc8SA&oe=6AD4F76C",
+      "views": 5969,
+      "likes": 344,
+      "comments": 65,
+      "postedAt": "2026-10-12T17:16:55.000Z",
+      "hoursAgo": 38.3,
+      "viewsPerHour": 156,
+      "outlier": null,
+      "engagementRate": 0.0732,
+      "clusters": [],
+      "foundBy": [
+        "healthy snacks"
+      ],
+      "suspicious": false,
+      "provider": "apify"
+    }
+  ]
+}
