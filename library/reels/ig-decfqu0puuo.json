@@ -1,0 +1,116 @@
+{
+  "id": "ig-decfqu0puuo",
+  "platform": "instagram",
+  "url": "https://www.instagram.com/reel/DecfQu0PUUO/",
+  "creator": "andrew_kevorkian",
+  "addedAt": "2026-10-14T09:03:10.490Z",
+  "postedAt": "2026-10-13T19:00:50.000Z",
+  "durationSec": 21.71,
+  "cover": "media/ig-decfqu0puuo/cover.jpg",
+  "caption": "Breakfasts are prepped for the week ✅\n\n580 cal | 29g protein per box — 2 hard-boiled eggs, 2 hashbrowns, 2 turkey sausage links, and 6 mini protein pancakes. Diner breakfast energy, macro plan results.\n\nWhich box are you grabbing first? 👇\n\nTracked with MacroFactor — link in bio to try it\n\n#mealprep #highprotein #macros #mealprepideas #practicalmacros",
+  "stats": {
+    "views": 6092,
+    "likes": 314,
+    "comments": 2,
+    "shares": null,
+    "saves": null,
+    "outlierScore": null,
+    "engagementRate": 0.0519
+  },
+  "transcript": [],
+  "hook": {
+    "text": "29G PROTEIN BREAKFASTS",
+    "words": 3,
+    "seconds": 3,
+    "template": "[X]G PROTEIN [MEAL]",
+    "category": "result first (number)",
+    "whyItWorks": "The number is the promise: a breakfast with real protein without a shake. The full prep spread in frame one makes it look abundant rather than restrictive.",
+    "powerWords": [
+      "29G PROTEIN",
+      "BREAKFASTS"
+    ]
+  },
+  "format": {
+    "category": "educational",
+    "type": "meal prep assembly (no voiceover)",
+    "visualLayout": "Overhead and angled shots of glass containers being filled on a white counter, bold italic text labels, licensed music",
+    "pacing": "medium, about 1 cut every 2 to 3s, each component gets its own label",
+    "reasoning": "No talking: the satisfying build from empty boxes to full ones is the whole video, and each label doubles as the recipe so it works muted. The app overlay gives exact macros for anyone saving it."
+  },
+  "angle": {
+    "topic": "High-protein breakfast prep",
+    "angle": "Diner-style breakfast boxes (hash brown, mini protein pancakes, eggs, sausage) prepped for the week with macros",
+    "commonBelief": "A high-protein breakfast means a shake or plain egg whites",
+    "contrarianTake": "A fun plate of familiar foods can still hit a solid protein number"
+  },
+  "visualBreakdown": [
+    {
+      "t": 0,
+      "shot": "Angled shot of the full meal-prep spread",
+      "onScreenText": "29G PROTEIN BREAKFASTS",
+      "why": "Big number and abundance in the first frame"
+    },
+    {
+      "t": 4,
+      "shot": "Macro app card over the spread",
+      "onScreenText": "580 cal, 29 P, 31 F, 47 C: Mini Protein Pancakes, Grade A Large Eggs, Turkey Sausage, Hash Brown Patties",
+      "why": "Exact numbers, pause-and-read moment"
+    },
+    {
+      "t": 7,
+      "shot": "Five empty glass containers",
+      "onScreenText": "",
+      "why": "Empty-to-full build starts, a satisfying format"
+    },
+    {
+      "t": 8,
+      "shot": "Hash brown patties placed from an air-fryer basket",
+      "onScreenText": "2 Hashbrown Patties",
+      "why": "Each step labelled, works muted"
+    },
+    {
+      "t": 12,
+      "shot": "Mini pancakes stacked into each box",
+      "onScreenText": "6 Mini Protein Pancakes",
+      "why": "Rhythmic repetition"
+    },
+    {
+      "t": 17,
+      "shot": "Hard-boiled eggs added",
+      "onScreenText": "2 Hard Boiled Eggs",
+      "why": "Familiar protein"
+    },
+    {
+      "t": 20,
+      "shot": "Finished boxes with sausage links",
+      "onScreenText": "2 Turkey Sausage Links",
+      "why": "Completed set, the save moment"
+    }
+  ],
+  "scrollStoppers": [
+    {
+      "t": 0,
+      "moment": "'29G PROTEIN BREAKFASTS' over the full spread",
+      "why": "Number plus abundance"
+    },
+    {
+      "t": 4,
+      "moment": "Macro card overlay",
+      "why": "Exact data people screenshot"
+    },
+    {
+      "t": 7,
+      "moment": "Empty containers waiting to be filled",
+      "why": "Starts a satisfying fill-up loop people watch to the end"
+    }
+  ],
+  "myVersion": {
+    "hook": "[X]g PROTEIN DESI BREAKFAST BOXES",
+    "script": "On-screen text, one label per step:\n[X]g PROTEIN DESI BREAKFAST BOXES\n5 empty dabbas\n2 moong dal chillas\nPaneer bhurji, one scoop\nA small bowl of curd\nA few cut fruits\nReady for the whole week\nVoiceover (optional): Sunday, 30 minutes, five breakfasts sorted. Track your own portions to get your exact number.\nFollow @fitwithbhavika for more."
+  },
+  "source": {
+    "provider": "apify",
+    "fetchedAt": "2026-10-14T09:03:10.490Z",
+    "transcriptTiming": "none"
+  }
+}

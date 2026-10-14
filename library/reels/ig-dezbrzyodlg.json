@@ -1,0 +1,141 @@
+{
+  "id": "ig-dezbrzyodlg",
+  "platform": "instagram",
+  "url": "https://www.instagram.com/reel/DeZBRZyODLg/",
+  "creator": "kanak_gurnani",
+  "addedAt": "2026-10-14T09:03:10.187Z",
+  "postedAt": "2026-10-12T10:30:01.000Z",
+  "durationSec": 44.12,
+  "cover": "media/ig-dezbrzyodlg/cover.jpg",
+  "caption": "Kids love cheese balls… but who says they need to be deep-fried? 🧀😍\n\nThese Non-Fried Cheese Balls are crispy outside, cheesy inside & loaded with veggies! ❤️\n\nAnd the best part? No deep frying!\n\nJust a little oil and your good old appe pan. ✨\n\nPerfect for after-school hunger, evening snacks or weekend cravings!\n\nSame cheesy goodness, just a healthier twist! 😋\n\n📌 Save this recipe for your next snack time!\n\n❤️ Detailed recipe pinned in comments!\n\n#KidsSnacks #CheeseBalls #HealthySnacks #NonFriedSnacks #KidsRecipes\n\n[non fried cheese balls, healthy cheese balls for kids, appe pan recipes, kids evening snacks, easy vegetarian snacks, no deep fry recipes]",
+  "stats": {
+    "views": 116861,
+    "likes": 855,
+    "comments": 44,
+    "shares": null,
+    "saves": null,
+    "outlierScore": null,
+    "engagementRate": 0.0077
+  },
+  "transcript": [],
+  "hook": {
+    "text": "NON-FRIED CHEESE BALLS 🧀 Kids Will Love These!",
+    "words": 7,
+    "seconds": 3,
+    "template": "NON-FRIED [FRIED FAVOURITE] – [WHO] Will Love These!",
+    "category": "healthier swap (result first)",
+    "whyItWorks": "No voice at all: the hook is the text card plus a cheese pull in the first 3 seconds. 'Non-fried' promises the guilt-free version of a snack everyone already craves, and 'kids will love these' speaks straight to the parent deciding what to make at 5pm. The stretchy cheese shot proves the promise before the recipe starts.",
+    "powerWords": [
+      "NON-FRIED",
+      "CHEESE BALLS",
+      "Kids Will Love These!"
+    ]
+  },
+  "format": {
+    "category": "educational",
+    "type": "recipe tutorial (no voiceover)",
+    "visualLayout": "Overhead hands-only cooking on a wooden board, a text card pinned at the top the whole time, Hindi film song underneath, face reveal at the end",
+    "pacing": "fast, about 1 cut every 1.5s across ~30 shots, then a 5s tasting shot to close",
+    "reasoning": "A recipe is a sequence, so quick hands-only steps keep it moving without narration; the fixed text card means a muted viewer still knows the payoff. Showing the cheese pull first and the creator tasting last brackets the process with the two moments people actually want to see."
+  },
+  "angle": {
+    "topic": "Healthier Indian kids' snacks",
+    "angle": "Turn a deep-fried party snack into an appe-pan version with veggies and a little oil",
+    "commonBelief": "Cheese balls have to be deep-fried to come out crisp",
+    "contrarianTake": "An appe pan with a little oil gives a crisp shell and a melty centre, and you can hide veggies inside"
+  },
+  "visualBreakdown": [
+    {
+      "t": 0,
+      "shot": "Finished balls tipped from a blue bowl into a newspaper-print basket",
+      "onScreenText": "NON-FRIED CHEESE BALLS 🧀 Kids Will Love These!",
+      "why": "Opens on the end result so the viewer knows what they are waiting for"
+    },
+    {
+      "t": 1,
+      "shot": "Close-up: two hands pull a ball apart, long cheese stretch, green chutney behind",
+      "onScreenText": "NON-FRIED CHEESE BALLS 🧀 Kids Will Love These!",
+      "why": "Cheese pull is the most craveable frame in food content"
+    },
+    {
+      "t": 4,
+      "shot": "Hand-pull chopper spun on the board",
+      "onScreenText": "NON-FRIED CHEESE BALLS 🧀 Kids Will Love These!",
+      "why": "Gadget motion is a small pattern interrupt and a familiar Indian kitchen tool"
+    },
+    {
+      "t": 6,
+      "shot": "Sweet corn poured into the chopper, chopped",
+      "onScreenText": "NON-FRIED CHEESE BALLS 🧀 Kids Will Love These!",
+      "why": "Bright yellow corn reads instantly as kid-friendly"
+    },
+    {
+      "t": 12,
+      "shot": "Corn, grated carrot and peppers added to a glass bowl, then salt and spices",
+      "onScreenText": "NON-FRIED CHEESE BALLS 🧀 Kids Will Love These!",
+      "why": "Shows the 'loaded with veggies' claim without saying it"
+    },
+    {
+      "t": 17,
+      "shot": "Bread torn into the mix and kneaded into a dough",
+      "onScreenText": "NON-FRIED CHEESE BALLS 🧀 Kids Will Love These!",
+      "why": "A clever binder people did not expect, which earns saves"
+    },
+    {
+      "t": 24,
+      "shot": "Dough flattened in the palm, a cheese cube tucked in, rolled into a ball",
+      "onScreenText": "NON-FRIED CHEESE BALLS 🧀 Kids Will Love These!",
+      "why": "The stuffing step sets up the cheese pull from the opening"
+    },
+    {
+      "t": 31,
+      "shot": "Rows of raw balls on printed paper",
+      "onScreenText": "NON-FRIED CHEESE BALLS 🧀 Kids Will Love These!",
+      "why": "Neat grid is satisfying and shows the batch size"
+    },
+    {
+      "t": 35,
+      "shot": "Appe pan on the stove: pale balls, then golden-brown, one lifted with a spoon",
+      "onScreenText": "NON-FRIED CHEESE BALLS 🧀 Kids Will Love These!",
+      "why": "The colour change is the proof that no frying is needed"
+    },
+    {
+      "t": 38,
+      "shot": "Plated basket with green chutney",
+      "onScreenText": "NON-FRIED CHEESE BALLS 🧀 Kids Will Love These!",
+      "why": "Beauty shot, the screenshot moment"
+    },
+    {
+      "t": 39,
+      "shot": "Creator in her kitchen holding the basket, takes a bite, nods, OK-hand sign",
+      "onScreenText": "NON-FRIED CHEESE BALLS 🧀 Kids Will Love These!",
+      "why": "Face reveal and a taste reaction add trust in the last seconds"
+    }
+  ],
+  "scrollStoppers": [
+    {
+      "t": 1,
+      "moment": "Cheese pull with green chutney",
+      "why": "Stretchy cheese is the strongest food-content thumb-stopper"
+    },
+    {
+      "t": 36,
+      "moment": "Pale balls turn golden in the appe pan",
+      "why": "Visual proof of the 'non-fried' promise"
+    },
+    {
+      "t": 39,
+      "moment": "Creator tastes one and gives an OK sign",
+      "why": "First human face after 39s of hands, a reaction that invites a rewatch"
+    }
+  ],
+  "myVersion": {
+    "hook": "5pm hunger, chai in hand, pakoda on your mind? Make these in your appe pan instead.",
+    "script": "5pm hunger, chai in hand, pakoda on your mind? Make these in your appe pan instead.\nGrate some paneer.\nAdd soaked moong dal, crushed in the mixer.\nChopped onion, capsicum, coriander.\nSalt, chilli, a pinch of ajwain.\nBind it with a spoon of besan.\nRoll small balls.\nBrush the appe pan with a few drops of oil.\nTurn them till they're golden on every side.\nCrisp outside. Soft inside. Way more protein than a pakoda.\nDip in green chutney and enjoy your chai.\nSave this for your next evening craving.\nFollow @fitwithbhavika for more."
+  },
+  "source": {
+    "provider": "apify",
+    "fetchedAt": "2026-10-14T09:03:10.187Z",
+    "transcriptTiming": "none"
+  }
+}

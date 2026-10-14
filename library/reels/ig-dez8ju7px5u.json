@@ -1,0 +1,99 @@
+{
+  "id": "ig-dez8ju7px5u",
+  "platform": "instagram",
+  "url": "https://www.instagram.com/reel/DeZ8Ju7pX5u/",
+  "creator": "tayunfiltered",
+  "addedAt": "2026-10-14T09:03:10.547Z",
+  "postedAt": "2026-10-12T19:03:44.000Z",
+  "durationSec": 20.2,
+  "cover": "media/ig-dez8ju7px5u/cover.jpg",
+  "caption": "Because not continuing to live the cycle that was taught to you from birth in a world that makes it seem normal is a feat that doesn’t get near enough recognition and praise. 🤸🏼‍♀️❤️‍🔥🙌🏻",
+  "stats": {
+    "views": 17593,
+    "likes": 1387,
+    "comments": 2,
+    "shares": null,
+    "saves": null,
+    "outlierScore": null,
+    "engagementRate": 0.079
+  },
+  "transcript": [],
+  "hook": {
+    "text": "TO EVERY WOMAN WHO HAD TO UNLEARN LOVE THAT FELT LIKE SURVIVING,",
+    "words": 12,
+    "seconds": 4,
+    "template": "To every woman who [HARD THING SHE GOT THROUGH]... I'm so proud of you",
+    "category": "callout (emotional affirmation)",
+    "whyItWorks": "It calls out a specific, painful experience and the viewer who lived it feels seen in one line. Pairing that text with blurry party footage creates a mismatch you have to watch to resolve, and the list structure promises a payoff line at the end.",
+    "powerWords": [
+      "EVERY WOMAN",
+      "UNLEARN",
+      "SURVIVING"
+    ]
+  },
+  "format": {
+    "category": "story",
+    "type": "motivational text montage",
+    "visualLayout": "Three handheld scenes (party, gym, kitchen), centred white caps text on each, trending song underneath, no voice",
+    "pacing": "slow, 4 scenes of about 5s each, one text line per scene",
+    "reasoning": "Text-over-footage lets the lines land without a voice, and the setting change from a party to the gym to a calm kitchen tells the before-and-after story visually. The caption is the thesis, so the video can stay simple."
+  },
+  "angle": {
+    "topic": "Women's self-worth and leaving unhealthy patterns",
+    "angle": "Celebrating the inner change behind a fitness journey",
+    "commonBelief": "A fitness transformation is mostly about how your body looks",
+    "contrarianTake": "The bigger transformation is choosing yourself and breaking the pattern you grew up with"
+  },
+  "visualBreakdown": [
+    {
+      "t": 0,
+      "shot": "Blurry pink-lit party footage, couple kissing",
+      "onScreenText": "TO EVERY WOMAN WHO HAD TO UNLEARN LOVE THAT FELT LIKE SURVIVING,",
+      "why": "The 'before' world, chaotic and dim"
+    },
+    {
+      "t": 4,
+      "shot": "Gym, low angle, cable exercise in a red top",
+      "onScreenText": "TO EVERY WOMAN WHO STOPPED SHRINKING HERSELF TO MAKE SOMEONE ELSE FEEL WHOLE,",
+      "why": "Setting change signals the turning point"
+    },
+    {
+      "t": 10,
+      "shot": "Kitchen in a green hoodie, tossing a supplement tub and dancing",
+      "onScreenText": "TO EVERY WOMAN WHO FINALLY BELIEVED SHE WAS NOT TOO MUCH AND NOT TOO LITTLE BUT EXACTLY ENOUGH,",
+      "why": "Playful, at-peace energy, the 'after'"
+    },
+    {
+      "t": 16,
+      "shot": "Same kitchen, arms up, dancing with the tub",
+      "onScreenText": "I'M SO PROUD OF YOU.",
+      "why": "Big payoff line, the share moment"
+    }
+  ],
+  "scrollStoppers": [
+    {
+      "t": 0,
+      "moment": "Pink party footage with a serious text line",
+      "why": "Mismatch between footage and words creates curiosity"
+    },
+    {
+      "t": 4,
+      "moment": "Cut to the gym",
+      "why": "Visual turning point of the story"
+    },
+    {
+      "t": 16,
+      "moment": "'I'M SO PROUD OF YOU.' in big text",
+      "why": "Emotional payoff people send to a friend"
+    }
+  ],
+  "myVersion": {
+    "hook": "To every woman who served everyone else first and ate whatever was left,",
+    "script": "On-screen text, one line per scene:\nTo every woman who served everyone else first and ate whatever was left,\nto every woman who picked up her first dumbbell after 30 and didn't care who was watching,\nto every woman who heard 'you've gained weight' at a family function and still showed up for herself the next morning,\nI see you. And I'm proud of you.\nCaption: Your body is not a family discussion. Your health is your decision. Follow @fitwithbhavika for more."
+  },
+  "source": {
+    "provider": "apify",
+    "fetchedAt": "2026-10-14T09:03:10.547Z",
+    "transcriptTiming": "none"
+  }
+}

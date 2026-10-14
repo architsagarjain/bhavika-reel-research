@@ -1,0 +1,177 @@
+{
+  "id": "ig-dezv41qo_dt",
+  "platform": "instagram",
+  "url": "https://www.instagram.com/reel/DeZv41qo_dT/",
+  "creator": "ayushmd",
+  "addedAt": "2026-10-14T09:03:10.245Z",
+  "postedAt": "2026-10-12T17:16:55.000Z",
+  "durationSec": 25.77,
+  "cover": "media/ig-dezv41qo_dt/cover.jpg",
+  "caption": "Worth trying or nah??lemme know in the comment section 🥰🥰\n\nMy food processor from @bajikitchensnhousehold.\n\n#potato#explore#healthysnacks#healthysnacking#fyp",
+  "stats": {
+    "views": 6013,
+    "likes": 347,
+    "comments": 65,
+    "shares": null,
+    "saves": null,
+    "outlierScore": null,
+    "engagementRate": 0.0685
+  },
+  "transcript": [
+    {
+      "start": 0,
+      "end": 2.84,
+      "text": "[unclear], let's show you what else you can mix"
+    },
+    {
+      "start": 2.84,
+      "end": 5.32,
+      "text": "that by boiling the potatoes into a food processor"
+    },
+    {
+      "start": 5.32,
+      "end": 6.82,
+      "text": "you add the potatoes"
+    },
+    {
+      "start": 6.82,
+      "end": 9.7,
+      "text": "smoked paprika, black pepper, butter and a pinch of salt"
+    },
+    {
+      "start": 9.7,
+      "end": 12.34,
+      "text": "grease your [unclear] paper and pipe them [unclear]"
+    },
+    {
+      "start": 12.34,
+      "end": 13.46,
+      "text": "and bake until crispy"
+    },
+    {
+      "start": 13.46,
+      "end": 14.48,
+      "text": "listen"
+    },
+    {
+      "start": 19.86,
+      "end": 22.08,
+      "text": "My piping game is so bad but trust me"
+    },
+    {
+      "start": 22.08,
+      "end": 23.42,
+      "text": "it's so crunchy and so good"
+    },
+    {
+      "start": 23.42,
+      "end": 24.92,
+      "text": "don't forget to and enjoy"
+    },
+    {
+      "start": 24.92,
+      "end": 25.52,
+      "text": "bye"
+    }
+  ],
+  "hook": {
+    "text": "Let's show you what else you can mix",
+    "words": 8,
+    "seconds": 2.8,
+    "template": "Let me show you what else you can make with [EVERYDAY INGREDIENT]",
+    "category": "curiosity gap",
+    "whyItWorks": "The first frame is three peeled potatoes in a palm, the most ordinary ingredient there is, and the line promises a use you haven't thought of. The first word is unclear on the audio, but the picture carries the hook on its own.",
+    "powerWords": [
+      "what else"
+    ]
+  },
+  "format": {
+    "category": "educational",
+    "type": "quick recipe tutorial",
+    "visualLayout": "Overhead and POV hands-only cooking on a granite counter, casual voiceover, no on-screen text",
+    "pacing": "fast for the first 14s (about 1 cut every second), then a 6s hold on the baked tray while she jokes about her piping",
+    "reasoning": "A 3-ingredient idea doesn't need narration polish: quick cuts get to the piping fast, and the self-deprecating 'my piping game is so bad' makes it feel doable. The caption's 'Worth trying or nah??' turns the end into a vote, which is why comments are high for the views."
+  },
+  "angle": {
+    "topic": "Baked potato snack",
+    "angle": "Boiled, blended, piped and baked potatoes become crispy bites with no frying",
+    "commonBelief": "Crunchy potato snacks need deep frying",
+    "contrarianTake": "Pipe the mash and bake it and you still get the crunch"
+  },
+  "visualBreakdown": [
+    {
+      "t": 0,
+      "shot": "Three peeled potatoes in an open palm",
+      "onScreenText": "",
+      "why": "Everyday ingredient, instantly recognisable"
+    },
+    {
+      "t": 2,
+      "shot": "Hand held over a pot (boiling step)",
+      "onScreenText": "",
+      "why": "Skips the boring part in one beat"
+    },
+    {
+      "t": 3,
+      "shot": "Potato chunks in a food processor, paprika and a seasoning sachet added",
+      "onScreenText": "",
+      "why": "Shows the flavour build quickly"
+    },
+    {
+      "t": 6,
+      "shot": "Food processor running, then a smooth swirl of mash",
+      "onScreenText": "",
+      "why": "Texture change is satisfying"
+    },
+    {
+      "t": 8,
+      "shot": "Mash spooned into a piping bag; parchment brushed with oil",
+      "onScreenText": "",
+      "why": "Sets up the unusual technique"
+    },
+    {
+      "t": 10,
+      "shot": "Rosettes piped onto the tray, rows of yellow swirls",
+      "onScreenText": "",
+      "why": "The surprising move that makes people stop: piping potatoes like cream"
+    },
+    {
+      "t": 14,
+      "shot": "Tray of baked golden rosettes, held for 6 seconds",
+      "onScreenText": "",
+      "why": "Long hold while she jokes, so the result sinks in"
+    },
+    {
+      "t": 20,
+      "shot": "Crisps tipped onto a white plate, she picks one up",
+      "onScreenText": "",
+      "why": "Final close-up for the crunch"
+    }
+  ],
+  "scrollStoppers": [
+    {
+      "t": 0,
+      "moment": "Peeled potatoes in a palm",
+      "why": "Simple, odd framing for a first frame and a clear subject"
+    },
+    {
+      "t": 12,
+      "moment": "Neat rows of piped potato rosettes",
+      "why": "Unexpected technique, looks like dessert"
+    },
+    {
+      "t": 21,
+      "moment": "Plate of golden crisps picked up",
+      "why": "Payoff shot that answers 'worth trying?'"
+    }
+  ],
+  "myVersion": {
+    "hook": "Two boiled aloo in the fridge? Don't make another paratha.",
+    "script": "Two boiled aloo in the fridge? Don't make another paratha.\nMash them smooth.\nAdd a spoon of hung curd, salt, chilli flakes and a pinch of ajwain.\nSpoon small rounds onto a lined tray.\nAir-fry or bake till the edges go crisp.\nDone.\nCrunchy, and no deep-frying.\nHave them with mint chutney and a boiled egg for protein.\nWould you try this? Yes or no in the comments.\nFollow @fitwithbhavika for more."
+  },
+  "source": {
+    "provider": "apify",
+    "fetchedAt": "2026-10-14T09:03:10.245Z",
+    "transcriptTiming": "exact"
+  }
+}

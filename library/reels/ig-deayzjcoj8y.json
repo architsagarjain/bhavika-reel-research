@@ -1,0 +1,190 @@
+{
+  "id": "ig-deayzjcoj8y",
+  "platform": "instagram",
+  "url": "https://www.instagram.com/reel/DeaYzJcOj8y/",
+  "creator": "antoinettelisa",
+  "addedAt": "2026-10-14T09:03:10.608Z",
+  "postedAt": "2026-10-12T23:24:09.000Z",
+  "durationSec": 33.85,
+  "cover": "media/ig-deayzjcoj8y/cover.jpg",
+  "caption": "meal prep w/ me ! It’s a new week sis let’s get it!🔥\nfat loss +muscle gain \n\nbreakfast- egg bites: eggs cottage cheese red peppers and turkey sausage + spinach \n\nprotein: chicken breast + salmon \ncarbs: Japanese sweet potato + sweet potato\nveggies: cucumber salad + broccoli \n\n.\n#mealprep #eatclean #gymgirl #explore #fitness",
+  "stats": {
+    "views": 12089,
+    "likes": 550,
+    "comments": 33,
+    "shares": null,
+    "saves": null,
+    "outlierScore": null,
+    "engagementRate": 0.0482
+  },
+  "transcript": [
+    {
+      "start": 0,
+      "end": 3.92,
+      "text": "Y'all come meal prep with me as a gym girl who's trying to keep a snatched waist in effect."
+    },
+    {
+      "start": 3.92,
+      "end": 7.32,
+      "text": "So we're gonna start off with my money fruits, blueberries, and blackberries, and some egg whites."
+    },
+    {
+      "start": 7.32,
+      "end": 9.32,
+      "text": "What I love about this is that it's high in protein."
+    },
+    {
+      "start": 9.32,
+      "end": 14.04,
+      "text": "I add cottage cheese to get that extra base, and then from here you can add whatever ingredients you want."
+    },
+    {
+      "start": 14.04,
+      "end": 16.76,
+      "text": "I added turkey sausage, red peppers, onions, and spinach."
+    },
+    {
+      "start": 16.76,
+      "end": 18.52,
+      "text": "Moving on to the protein this week."
+    },
+    {
+      "start": 18.52,
+      "end": 20.2,
+      "text": "I'm doing chicken breast and salmon."
+    },
+    {
+      "start": 20.2,
+      "end": 23.52,
+      "text": "Season however you wish, and then moving on to the carbs this week."
+    },
+    {
+      "start": 23.52,
+      "end": 27.24,
+      "text": "I'm sticking with only sweet potato, because I'm limiting complex carbs."
+    },
+    {
+      "start": 27.24,
+      "end": 30.8,
+      "text": "For veggies, I'm going with a cucumber salad with dill and broccoli,"
+    },
+    {
+      "start": 30.8,
+      "end": 33.8,
+      "text": "and there you have it, an easy high protein meal prep for the week."
+    }
+  ],
+  "hook": {
+    "text": "Y'all come meal prep with me as a gym girl who's trying to keep a snatched waist in effect.",
+    "words": 19,
+    "seconds": 3.9,
+    "template": "Come meal prep with me as a [IDENTITY] who's trying to [GOAL]",
+    "category": "identity callout (follow-along invite)",
+    "whyItWorks": "'Come meal prep with me' is an invitation, not a lecture, and 'gym girl' plus a specific body goal tells exactly who it's for. The first frame is the finished colourful spread with 'fat loss + muscle gain', so the result is promised before the work starts.",
+    "powerWords": [
+      "meal prep with me",
+      "gym girl",
+      "snatched waist"
+    ]
+  },
+  "format": {
+    "category": "educational",
+    "type": "meal prep with me",
+    "visualLayout": "Wide shots of the creator in her kitchen mixed with overhead hands-only prep, title text on the opening frames, casual voiceover",
+    "pacing": "fast, about 1 cut every 1.5s over 34s",
+    "reasoning": "Breaking prep into breakfast, protein, carbs and veggies gives a clear structure that's easy to copy and save. Quick cuts and a friendly voiceover keep it moving, and the creator appearing on camera between steps makes it personal."
+  },
+  "angle": {
+    "topic": "Weekly fat-loss meal prep for women",
+    "angle": "A simple formula: egg bites for breakfast, two proteins, one carb, two veggies",
+    "commonBelief": "Eating for fat loss means salads and starving",
+    "contrarianTake": "A protein-forward prep with real carbs supports fat loss and muscle gain together"
+  },
+  "visualBreakdown": [
+    {
+      "t": 0,
+      "shot": "Overhead of finished dishes: salmon, sweet potato, cucumber salad, broccoli",
+      "onScreenText": "MEAL PREP W/ ME fat loss + muscle gain",
+      "why": "Result first"
+    },
+    {
+      "t": 1,
+      "shot": "Creator behind the spread, smiling, arms out",
+      "onScreenText": "MEAL PREP W/ ME fat loss + muscle gain",
+      "why": "Face and goal together, the invite"
+    },
+    {
+      "t": 4,
+      "shot": "Holding two jars of berries to camera",
+      "onScreenText": "",
+      "why": "Starts with something colourful and simple"
+    },
+    {
+      "t": 7,
+      "shot": "Blender: eggs cracked, cottage cheese added, blended",
+      "onScreenText": "",
+      "why": "Shows the protein trick for egg bites"
+    },
+    {
+      "t": 12,
+      "shot": "Muffin tins sprayed and filled: sausage and peppers, egg mix, spinach",
+      "onScreenText": "",
+      "why": "Satisfying fill-up shots"
+    },
+    {
+      "t": 16,
+      "shot": "Chicken seasoned and rubbed with gloves, salmon seasoned",
+      "onScreenText": "",
+      "why": "Protein section, clear and fast"
+    },
+    {
+      "t": 22,
+      "shot": "Chopping sweet potato, into the air fryer",
+      "onScreenText": "",
+      "why": "Carb section, one ingredient keeps it simple"
+    },
+    {
+      "t": 26,
+      "shot": "Cucumber salad with dill and vinegar, broccoli in a pan",
+      "onScreenText": "",
+      "why": "Veggie section"
+    },
+    {
+      "t": 31,
+      "shot": "Finished plates overhead: egg bites, salmon, chicken, cucumber salad",
+      "onScreenText": "",
+      "why": "Final spread, the save moment"
+    }
+  ],
+  "scrollStoppers": [
+    {
+      "t": 0,
+      "moment": "Colourful finished spread with 'fat loss + muscle gain'",
+      "why": "Goal and result in frame one"
+    },
+    {
+      "t": 1,
+      "moment": "Creator reveal behind the food",
+      "why": "Face plus an invitation builds connection"
+    },
+    {
+      "t": 9,
+      "moment": "Cottage cheese dropped into the egg blender",
+      "why": "An unexpected protein hack people save"
+    },
+    {
+      "t": 31,
+      "moment": "Final overhead spread",
+      "why": "Payoff that makes people want to copy it"
+    }
+  ],
+  "myVersion": {
+    "hook": "Sunday prep with me, desi style, for fat loss without giving up roti.",
+    "script": "Sunday prep with me, desi style, for fat loss without giving up roti.\nBreakfast first. Moong dal soaked overnight, ground into a batter with ginger and green chilli. That's five mornings of chilla sorted.\nNext, protein. Paneer cubes tossed in curd, haldi and tikka masala, straight into the air fryer.\nAnd a tray of chicken tikka for the days I want something different.\nCarbs. A small batch of brown rice, and I'll make rotis fresh. Yes, rotis stay.\nVeggies. A big bowl of kachumber, and bhindi with onion, dry and crispy.\nThat's it. Five boxes, about two hours, Sunday done, and no more weekday excuses for ordering in.\nFollow @fitwithbhavika for more."
+  },
+  "source": {
+    "provider": "apify",
+    "fetchedAt": "2026-10-14T09:03:10.608Z",
+    "transcriptTiming": "exact"
+  }
+}
