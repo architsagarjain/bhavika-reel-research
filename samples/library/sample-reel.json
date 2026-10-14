@@ -1,0 +1,152 @@
+{
+  "id": "ig-samplehook1",
+  "platform": "instagram",
+  "url": "https://www.instagram.com/reel/SAMPLEhook1/",
+  "creator": "sample.creator",
+  "addedAt": "2026-10-11T09:12:00.000Z",
+  "postedAt": "2026-10-10T17:40:00.000Z",
+  "durationSec": 30.2,
+  "cover": "samples/covers/cover-01.svg",
+  "caption": "SAMPLE DATA. I gave an AI agent my inbox for 7 days. The results surprised me. Comment AGENT and I will send you the setup.",
+  "stats": {
+    "views": 184000,
+    "likes": 9800,
+    "comments": 2100,
+    "shares": 1400,
+    "saves": 3900,
+    "outlierScore": 14.2,
+    "engagementRate": 0.0935
+  },
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "text": "I let an AI agent run my inbox for seven days, and day three almost broke it."
+    },
+    {
+      "start": 3.6,
+      "end": 8.8,
+      "text": "Here is the setup: it reads every email, sorts it into three piles, and drafts replies I approve."
+    },
+    {
+      "start": 8.8,
+      "end": 12.6,
+      "text": "Day one was boring in the best way. Forty emails, zero effort."
+    },
+    {
+      "start": 12.6,
+      "end": 17.2,
+      "text": "Day three, it replied to a client with the wrong price. That is the part nobody shows you."
+    },
+    {
+      "start": 17.2,
+      "end": 20.6,
+      "text": "So I added one rule: anything with a number goes to me first."
+    },
+    {
+      "start": 20.6,
+      "end": 24.6,
+      "text": "By day seven I was spending eleven minutes a day on email instead of ninety."
+    },
+    {
+      "start": 24.6,
+      "end": 27.2,
+      "text": "The agent is not the magic. The rules are."
+    },
+    {
+      "start": 27.2,
+      "end": 30.2,
+      "text": "Comment AGENT and I will send you my exact rules."
+    }
+  ],
+  "hook": {
+    "text": "I let an AI agent run my inbox for seven days, and day three almost broke it.",
+    "words": 17,
+    "seconds": 3.6,
+    "template": "I let [TOOL] run my [PAINFUL TASK] for [TIME], and [DAY] almost broke it.",
+    "category": "experiment with a twist",
+    "whyItWorks": "It promises a story with stakes. 'Seven days' sets a clear arc, and 'almost broke it' opens a loop the viewer needs closed. Concrete, personal, and it hints at failure, which feels honest.",
+    "powerWords": [
+      "AI agent",
+      "seven days",
+      "almost broke it"
+    ]
+  },
+  "format": {
+    "category": "educational",
+    "type": "personal experiment diary",
+    "visualLayout": "talking head + screen recording",
+    "pacing": "fast: a new visual every 2 to 3 seconds",
+    "reasoning": "A day-by-day diary gives the viewer a reason to stay to the end (what happened on day seven?). The failure on day three is placed in the middle to stop the mid-video drop."
+  },
+  "angle": {
+    "topic": "AI agents for email",
+    "angle": "Show the failure, then the fix",
+    "commonBelief": "AI agents can run your inbox on autopilot.",
+    "contrarianTake": "The agent only works once you give it hard rules. The rules are the product, not the AI."
+  },
+  "visualBreakdown": [
+    {
+      "t": 0,
+      "shot": "Close up face, phone in hand",
+      "onScreenText": "7 days. 1 AI agent. My inbox.",
+      "why": "Big promise in the first frame, readable at scroll speed."
+    },
+    {
+      "t": 3.6,
+      "shot": "Screen recording of an inbox sorting itself",
+      "onScreenText": "Reads. Sorts. Drafts.",
+      "why": "Movement on screen shows the agent working: proof, not a claim."
+    },
+    {
+      "t": 12.6,
+      "shot": "Red warning flash over a sent email",
+      "onScreenText": "Day 3: wrong price sent",
+      "why": "Color change and alarm sound mark the twist."
+    },
+    {
+      "t": 17.2,
+      "shot": "Notes app with one rule typed out",
+      "onScreenText": "Numbers go to me first",
+      "why": "A simple rule the viewer can copy, which drives saves."
+    },
+    {
+      "t": 20.6,
+      "shot": "Split screen: 90 min vs 11 min",
+      "onScreenText": "90 min -> 11 min",
+      "why": "Before and after number makes the payoff instant."
+    },
+    {
+      "t": 27.2,
+      "shot": "Face, direct to camera",
+      "onScreenText": "Comment AGENT",
+      "why": "One clear call to action, keyword comment boosts reach."
+    }
+  ],
+  "scrollStoppers": [
+    {
+      "t": 0.4,
+      "moment": "'seven days' with a calendar pop",
+      "why": "A time box sets up the story arc in under a second."
+    },
+    {
+      "t": 12.8,
+      "moment": "Red flash and the word 'wrong price'",
+      "why": "Pattern break right where viewers usually swipe."
+    },
+    {
+      "t": 20.8,
+      "moment": "'90 -> 11 minutes' number reveal",
+      "why": "Hard proof. Numbers stop thumbs."
+    }
+  ],
+  "myVersion": {
+    "hook": "I handed my content calendar to an AI agent for a week, and it nearly posted the wrong video on day four.",
+    "script": "Hook: I handed my content calendar to an AI agent for a week, and it nearly posted the wrong video on day four.\nSetup: what it did each morning, in one sentence.\nTwist: day four, the near miss, shown on screen.\nFix: the one approval rule I added.\nPayoff: hours saved, with the real number.\nCTA: Comment CALENDAR for the rules."
+  },
+  "source": {
+    "provider": "sandcastles",
+    "fetchedAt": "2026-10-11T09:12:00.000Z",
+    "transcriptTiming": "exact"
+  }
+}

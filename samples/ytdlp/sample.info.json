@@ -1,0 +1,30 @@
+{
+  "_sample": "Synthetic sample in the yt-dlp --write-info-json shape (trimmed). Not a real reel.",
+  "id": "SAMPLEytdlp1",
+  "display_id": "SAMPLEytdlp1",
+  "title": "Video by sample.creator",
+  "fulltitle": "Video by sample.creator",
+  "description": "Three things I wish I knew before building my first AI agent. Save this for later.",
+  "webpage_url": "https://www.instagram.com/reel/SAMPLEytdlp1/",
+  "original_url": "https://www.instagram.com/reel/SAMPLEytdlp1/",
+  "webpage_url_domain": "instagram.com",
+  "extractor": "Instagram",
+  "extractor_key": "Instagram",
+  "uploader": "Sample Creator",
+  "channel": "sample.creator",
+  "uploader_id": "5000000001",
+  "timestamp": 1791712800,
+  "upload_date": "20261011",
+  "view_count": null,
+  "like_count": 2450,
+  "comment_count": 188,
+  "duration": 28.4,
+  "thumbnail": "samples/covers/cover-05.svg",
+  "ext": "mp4",
+  "width": 1080,
+  "height": 1920,
+  "_type": "video",
+  "_version": {
+    "version": "2026.08.19"
+  }
+}

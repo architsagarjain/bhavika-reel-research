@@ -1,0 +1,118 @@
+{
+  "id": "ig-sample02rlc",
+  "platform": "instagram",
+  "url": "https://www.instagram.com/reel/SAMPLE02rlc/",
+  "creator": "sample.builds",
+  "addedAt": "2026-10-11T10:05:00.000Z",
+  "postedAt": "2026-10-11T01:00:00.000Z",
+  "durationSec": 18.0,
+  "cover": "samples/covers/cover-02.svg",
+  "caption": "SAMPLE DATA. Claude Code built this while I made lunch. The trick is one file most people skip.",
+  "stats": {
+    "views": 96000,
+    "likes": 6100,
+    "comments": 880,
+    "shares": 520,
+    "saves": 2400,
+    "outlierScore": 9.1,
+    "engagementRate": 0.1031
+  },
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 2.8,
+      "text": "Claude Code built this whole app while I made lunch."
+    },
+    {
+      "start": 2.8,
+      "end": 5.4,
+      "text": "The trick is one file most people never write."
+    },
+    {
+      "start": 5.4,
+      "end": 10.8,
+      "text": "Before you ask for anything, write a short plan file: what it is, what done looks like, what not to touch."
+    },
+    {
+      "start": 10.8,
+      "end": 13.4,
+      "text": "Then tell it to read the plan first, every time."
+    },
+    {
+      "start": 13.4,
+      "end": 15.8,
+      "text": "That is it. Fewer mistakes, fewer rewrites."
+    },
+    {
+      "start": 15.8,
+      "end": 18.0,
+      "text": "Save this so you do it on your next project."
+    }
+  ],
+  "hook": {
+    "text": "Claude Code built this whole app while I made lunch.",
+    "words": 10,
+    "seconds": 2.8,
+    "template": "[TOOL] built this whole [THING] while I [EVERYDAY TASK].",
+    "category": "effortless result",
+    "whyItWorks": "Contrast between a big result and a tiny everyday task. It creates instant curiosity about the method.",
+    "powerWords": [
+      "whole app",
+      "while I made lunch"
+    ]
+  },
+  "format": {
+    "category": "educational",
+    "type": "one tip tutorial",
+    "visualLayout": "screen recording + face cam",
+    "pacing": "medium",
+    "reasoning": "One clear tip, shown once, easy to save."
+  },
+  "angle": {
+    "topic": "AI coding workflow",
+    "angle": "One file beats better prompts",
+    "commonBelief": "Better prompts get better code.",
+    "contrarianTake": "A written plan file matters more than any single prompt."
+  },
+  "visualBreakdown": [
+    {
+      "t": 0,
+      "shot": "Finished app on screen, sandwich in frame",
+      "onScreenText": "Built while I made lunch",
+      "why": "Result first."
+    },
+    {
+      "t": 5.4,
+      "shot": "Plan file typed in an editor",
+      "onScreenText": "PLAN.md",
+      "why": "The secret is visible and copyable."
+    },
+    {
+      "t": 13.4,
+      "shot": "Terminal running, green checks",
+      "onScreenText": "Reads the plan first",
+      "why": "Shows it working."
+    }
+  ],
+  "scrollStoppers": [
+    {
+      "t": 0.2,
+      "moment": "Sandwich next to a working app",
+      "why": "Odd pairing makes people look twice."
+    },
+    {
+      "t": 5.6,
+      "moment": "'one file most people never write'",
+      "why": "Insider secret framing."
+    }
+  ],
+  "myVersion": {
+    "hook": "My AI assistant planned my whole week while I was making coffee.",
+    "script": "Hook, then show the one planning note, then the result, then CTA: save this."
+  },
+  "source": {
+    "provider": "sandcastles",
+    "fetchedAt": "2026-10-11T10:05:00.000Z",
+    "transcriptTiming": "exact"
+  }
+}

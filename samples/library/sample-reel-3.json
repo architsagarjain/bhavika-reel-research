@@ -1,0 +1,102 @@
+{
+  "id": "ig-sample03rld",
+  "platform": "instagram",
+  "url": "https://www.instagram.com/reel/SAMPLE03rld/",
+  "creator": "sample.studio",
+  "addedAt": "2026-10-10T18:30:00.000Z",
+  "postedAt": "2026-10-09T15:00:00.000Z",
+  "durationSec": 10.6,
+  "cover": "samples/covers/cover-03.svg",
+  "caption": "SAMPLE DATA. Stop writing prompts like emails. 3 examples inside.",
+  "stats": {
+    "views": 61000,
+    "likes": 3900,
+    "comments": 410,
+    "shares": 300,
+    "saves": 1800,
+    "outlierScore": 6.4,
+    "engagementRate": 0.1051
+  },
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "Stop writing prompts like emails."
+    },
+    {
+      "start": 1.8,
+      "end": 4.4,
+      "text": "Nobody needs 'Hi, I hope you are well' in a prompt."
+    },
+    {
+      "start": 4.4,
+      "end": 7.6,
+      "text": "Give it a role, the goal, and the format you want back."
+    },
+    {
+      "start": 7.6,
+      "end": 9.6,
+      "text": "Here are three before and afters."
+    },
+    {
+      "start": 9.6,
+      "end": 10.6,
+      "text": "Steal them."
+    }
+  ],
+  "hook": {
+    "text": "Stop writing prompts like emails.",
+    "words": 5,
+    "seconds": 1.8,
+    "template": "Stop [COMMON HABIT] like [WRONG FRAME].",
+    "category": "callout",
+    "whyItWorks": "Short command plus a relatable mistake. The viewer checks if they do it.",
+    "powerWords": [
+      "Stop",
+      "like emails"
+    ]
+  },
+  "format": {
+    "category": "educational",
+    "type": "before and after",
+    "visualLayout": "text on screen + b-roll",
+    "pacing": "fast",
+    "reasoning": "Before and after pairs are easy to scan and screenshot."
+  },
+  "angle": {
+    "topic": "Prompting",
+    "angle": "Less polite, more structured",
+    "commonBelief": "Longer prompts are better prompts.",
+    "contrarianTake": "Structure beats length."
+  },
+  "visualBreakdown": [
+    {
+      "t": 0,
+      "shot": "Bold text on dark background",
+      "onScreenText": "Stop writing prompts like emails",
+      "why": "Hook as text for sound-off viewers."
+    },
+    {
+      "t": 7.6,
+      "shot": "Before / after cards",
+      "onScreenText": "Role. Goal. Format.",
+      "why": "Framework in three words."
+    }
+  ],
+  "scrollStoppers": [
+    {
+      "t": 0.1,
+      "moment": "Command word 'Stop'",
+      "why": "Imperatives interrupt the scroll."
+    }
+  ],
+  "myVersion": {
+    "hook": "Stop asking AI for ideas like you are texting a friend.",
+    "script": "Callout, three before and after examples, CTA: save for your next prompt."
+  },
+  "source": {
+    "provider": "sandcastles",
+    "fetchedAt": "2026-10-10T18:30:00.000Z",
+    "transcriptTiming": "exact"
+  }
+}

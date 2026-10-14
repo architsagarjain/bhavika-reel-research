@@ -1,0 +1,104 @@
+{
+  "niche": "Women's fitness coaching in India: fat loss, strength training, Indian nutrition and hormonal health (PCOS, thyroid), for @fitwithbhavika / PeakX",
+  "topicTerms": [
+    "fitness", "fit", "workout", "gym", "exercise", "training", "fat loss", "weight loss", "lose weight",
+    "diet", "nutrition", "protein", "calorie", "macros", "pcos", "pcod", "thyroid", "hormon",
+    "strength", "muscle", "toning", "tone", "body", "health", "coach"
+  ],
+  "dropOffTopic": true,
+  "clusters": [
+    {
+      "id": "fatloss",
+      "label": "Women's fat loss",
+      "queries": [
+        "fat loss for women", "weight loss journey", "weight loss tips", "belly fat", "lose belly fat",
+        "fat loss tips", "calorie deficit", "how I lost weight", "weight loss India", "inch loss",
+        "body recomposition", "weight loss plateau"
+      ],
+      "captionTerms": [
+        "fat loss", "weight loss", "lose weight", "lost", "kg", "belly", "deficit", "calorie",
+        "inch", "recomp", "plateau", "slim", "tummy"
+      ],
+      "needsTopicTerm": false
+    },
+    {
+      "id": "strength",
+      "label": "Strength and gym training",
+      "queries": [
+        "strength training for women", "women who lift", "gym girl", "glute workout", "leg day",
+        "upper body workout", "gym beginner", "beginner workout", "progressive overload", "deadlift",
+        "squat form", "workout routine"
+      ],
+      "captionTerms": [
+        "lift", "strength", "gym", "glute", "leg day", "squat", "deadlift", "dumbbell", "barbell",
+        "overload", "reps", "sets", "form", "workout", "upper body"
+      ],
+      "needsTopicTerm": false
+    },
+    {
+      "id": "home",
+      "label": "Home workouts and busy women",
+      "queries": [
+        "home workout", "home workout for women", "no equipment workout", "15 minute workout",
+        "workout for busy women", "walking for weight loss", "steps a day"
+      ],
+      "captionTerms": [
+        "home workout", "at home", "no equipment", "minute workout", "busy", "walk", "steps",
+        "mom", "working women"
+      ],
+      "needsTopicTerm": false
+    },
+    {
+      "id": "nutrition",
+      "label": "Indian diet and nutrition",
+      "queries": [
+        "Indian diet plan", "high protein vegetarian", "vegetarian protein", "protein for women",
+        "what I eat in a day", "Indian weight loss diet", "healthy Indian recipes", "high protein breakfast",
+        "diet tips", "meal prep", "healthy snacks", "roti or rice"
+      ],
+      "captionTerms": [
+        "protein", "diet", "meal", "what i eat", "recipe", "breakfast", "lunch", "dinner", "snack",
+        "paneer", "dal", "roti", "rice", "veg", "macro", "eat", "nutrition", "sugar"
+      ],
+      "needsTopicTerm": false
+    },
+    {
+      "id": "hormonal",
+      "label": "PCOS, thyroid and hormonal health",
+      "queries": [
+        "PCOS weight loss", "PCOS diet", "PCOS workout", "PCOD", "thyroid weight loss",
+        "hormonal belly", "insulin resistance", "cycle syncing", "hormone health"
+      ],
+      "captionTerms": [
+        "pcos", "pcod", "thyroid", "hormon", "insulin", "cycle", "period", "cortisol", "menopause"
+      ],
+      "needsTopicTerm": false
+    },
+    {
+      "id": "transformations",
+      "label": "Transformations and client results",
+      "queries": [
+        "transformation", "fitness transformation", "before and after", "client transformation",
+        "weight loss transformation", "online fitness coach", "online coaching"
+      ],
+      "captionTerms": [
+        "transformation", "before", "after", "client", "results", "journey", "coach", "coaching",
+        "dm", "apply"
+      ],
+      "needsTopicTerm": true
+    },
+    {
+      "id": "mindset",
+      "label": "Myths, habits and mindset",
+      "queries": [
+        "fitness myths", "diet myths", "fitness motivation", "consistency", "healthy habits",
+        "fitness tips", "sleep and weight loss"
+      ],
+      "captionTerms": [
+        "myth", "truth", "mistake", "habit", "consisten", "motivation", "discipline", "mindset",
+        "sleep", "stress", "tips"
+      ],
+      "needsTopicTerm": true
+    }
+  ]
+}

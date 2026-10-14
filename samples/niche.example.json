@@ -1,0 +1,244 @@
+{
+  "niche": "AI and Claude Code creators (example, replace with yours)",
+  "topicTerms": [
+    "ai",
+    "a.i.",
+    "artificial intelligence",
+    "inteligencia artificial",
+    "intelligence artificielle",
+    "inteligência artificial",
+    "künstliche intelligenz",
+    "ki",
+    "ia",
+    "gpt",
+    "llm",
+    "claude",
+    "openai",
+    "anthropic",
+    "gemini",
+    "copilot",
+    "chatbot",
+    "automation",
+    "agent"
+  ],
+  "dropOffTopic": true,
+  "clusters": [
+    {
+      "id": "coding",
+      "label": "Coding agents and dev tools",
+      "queries": [
+        "Claude Code",
+        "Codex",
+        "Cursor AI",
+        "vibe coding",
+        "coding with AI",
+        "AI coding",
+        "MCP server",
+        "Claude skills",
+        "AI agent built",
+        "no code app AI",
+        "Lovable app",
+        "built an app with AI",
+        "software engineer AI"
+      ],
+      "captionTerms": [
+        "claude code",
+        "codex",
+        "cursor",
+        "vibe cod",
+        "coding",
+        "developer",
+        "programm",
+        "mcp",
+        "skill",
+        "github",
+        "lovable",
+        "replit",
+        "bolt",
+        "no code",
+        "no-code",
+        "app in",
+        "built an app",
+        "software"
+      ],
+      "needsTopicTerm": false
+    },
+    {
+      "id": "models",
+      "label": "Models, labs, launches",
+      "queries": [
+        "Claude",
+        "ChatGPT",
+        "GPT-6",
+        "Gemini",
+        "Grok",
+        "DeepSeek",
+        "Anthropic",
+        "OpenAI",
+        "Sam Altman",
+        "Dario Amodei",
+        "new AI model",
+        "AGI",
+        "open source AI",
+        "local AI model"
+      ],
+      "captionTerms": [
+        "claude",
+        "chatgpt",
+        "gpt",
+        "gemini",
+        "grok",
+        "deepseek",
+        "qwen",
+        "llama",
+        "anthropic",
+        "openai",
+        "altman",
+        "amodei",
+        "agi",
+        "model"
+      ],
+      "needsTopicTerm": false
+    },
+    {
+      "id": "agents",
+      "label": "Agents and automation",
+      "queries": [
+        "AI agents",
+        "AI agent",
+        "AI automation",
+        "automate with AI",
+        "AI workflow",
+        "AI assistant",
+        "AI employee",
+        "agentic"
+      ],
+      "captionTerms": [
+        "agent",
+        "automation",
+        "automate",
+        "workflow",
+        "zapier",
+        "make.com",
+        "assistant",
+        "agentic"
+      ],
+      "needsTopicTerm": false
+    },
+    {
+      "id": "tools",
+      "label": "AI tools, prompts, productivity",
+      "queries": [
+        "AI tools",
+        "ChatGPT prompts",
+        "prompt engineering",
+        "ChatGPT tricks",
+        "ChatGPT hacks",
+        "AI productivity",
+        "AI for business",
+        "best AI tools",
+        "AI app",
+        "Perplexity"
+      ],
+      "captionTerms": [
+        "prompt",
+        "ai tool",
+        "productivity",
+        "notion",
+        "perplexity",
+        "hack",
+        "trick",
+        "tips"
+      ],
+      "needsTopicTerm": false
+    },
+    {
+      "id": "business",
+      "label": "Money, agencies, careers with AI",
+      "queries": [
+        "make money with AI",
+        "AI side hustle",
+        "AI agency",
+        "AI business",
+        "digital product AI",
+        "faceless channel AI",
+        "AI jobs",
+        "AI replace jobs",
+        "AI skills to learn",
+        "learn AI",
+        "AI course",
+        "AI freelancing"
+      ],
+      "captionTerms": [
+        "money",
+        "side hustle",
+        "agency",
+        "business",
+        "digital product",
+        "faceless",
+        "job",
+        "career",
+        "freelanc",
+        "course",
+        "masterclass",
+        "income",
+        "sales",
+        "clients"
+      ],
+      "needsTopicTerm": true
+    },
+    {
+      "id": "news",
+      "label": "News, drama, safety, society",
+      "queries": [
+        "AI news",
+        "AI safety",
+        "AI slow down",
+        "AI bubble",
+        "AI layoffs",
+        "AI regulation",
+        "AI danger",
+        "AI future",
+        "Elon Musk AI",
+        "Nvidia",
+        "AI data center",
+        "AI stocks"
+      ],
+      "captionTerms": [
+        "news",
+        "safety",
+        "slow down",
+        "bubble",
+        "layoff",
+        "regulat",
+        "danger",
+        "warning",
+        "ipo",
+        "stocks",
+        "invest",
+        "nvidia",
+        "data center",
+        "musk",
+        "elon"
+      ],
+      "needsTopicTerm": true
+    },
+    {
+      "id": "robots",
+      "label": "Robots and hardware",
+      "queries": [
+        "humanoid robot",
+        "robot AI"
+      ],
+      "captionTerms": [
+        "robot",
+        "humanoid",
+        "optimus",
+        "boston dynamics",
+        "glasses",
+        "hardware"
+      ],
+      "needsTopicTerm": false
+    }
+  ]
+}

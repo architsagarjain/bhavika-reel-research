@@ -1,0 +1,19 @@
+# Secrets (your Apify token lives here, never commit it)
+.env
+.env.*
+!.env.example
+
+# Dependencies and OS files
+node_modules/
+.DS_Store
+Thumbs.db
+
+# Downloaded media, transcripts, frames
+media/
+
+# Generated viewer (rebuilt from library/reels)
+out/
+
+# Raw provider results and inbox bookkeeping
+data/raw/*
+!data/raw/.gitkeep

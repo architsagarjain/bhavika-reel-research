@@ -1,0 +1,19 @@
+{
+  "name": "instagram-research-tool",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Research any Instagram reel with Claude Code: transcript, hook, format, numbers, frame by frame breakdown, plus a daily outlier report for your niche.",
+  "author": "Manthan Patel",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "selftest": "node scripts/selftest.mjs",
+    "library": "node scripts/build-library.mjs --open",
+    "outliers": "node scripts/outliers.mjs --open",
+    "inbox": "node scripts/inbox.mjs",
+    "sample-report": "node scripts/outliers.mjs --in samples/search --now 2026-10-12T06:00:00Z --stamp sample --niche samples/niche.example.json --open"
+  }
+}

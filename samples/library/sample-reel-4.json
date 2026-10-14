@@ -1,0 +1,96 @@
+{
+  "id": "ig-sample04rle",
+  "platform": "instagram",
+  "url": "https://www.instagram.com/reel/SAMPLE04rle/",
+  "creator": "sample.notes",
+  "addedAt": "2026-10-10T08:00:00.000Z",
+  "postedAt": "2026-10-08T20:00:00.000Z",
+  "durationSec": 13.4,
+  "cover": "samples/covers/cover-04.svg",
+  "caption": "SAMPLE DATA. The AI news you missed this week in 60 seconds.",
+  "stats": {
+    "views": 142000,
+    "likes": 7200,
+    "comments": 560,
+    "shares": null,
+    "saves": null,
+    "outlierScore": null,
+    "engagementRate": 0.0546
+  },
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Here is the AI news you missed this week, in sixty seconds."
+    },
+    {
+      "start": 3.0,
+      "end": 6.2,
+      "text": "One: a new open model you can run on a laptop."
+    },
+    {
+      "start": 6.2,
+      "end": 8.8,
+      "text": "Two: a big lab changed its pricing."
+    },
+    {
+      "start": 8.8,
+      "end": 11.8,
+      "text": "Three: robots folding laundry, for real this time."
+    },
+    {
+      "start": 11.8,
+      "end": 13.4,
+      "text": "Follow for next week."
+    }
+  ],
+  "hook": {
+    "text": "Here is the AI news you missed this week, in sixty seconds.",
+    "words": 12,
+    "seconds": 3.0,
+    "template": "Here is the [NICHE] news you missed this week, in [SHORT TIME].",
+    "category": "news roundup",
+    "whyItWorks": "Fear of missing out plus a small time cost. Clear value in one line.",
+    "powerWords": [
+      "missed",
+      "sixty seconds"
+    ]
+  },
+  "format": {
+    "category": "news",
+    "type": "weekly roundup",
+    "visualLayout": "green screen over headlines",
+    "pacing": "fast",
+    "reasoning": "A numbered list keeps people watching to the next item."
+  },
+  "angle": {
+    "topic": "Weekly AI news",
+    "angle": "Only what matters to creators",
+    "commonBelief": "You need to follow every launch.",
+    "contrarianTake": "Three stories a week is enough."
+  },
+  "visualBreakdown": [
+    {
+      "t": 0,
+      "shot": "Green screen over a headline",
+      "onScreenText": "AI news you missed",
+      "why": "Familiar news format."
+    }
+  ],
+  "scrollStoppers": [
+    {
+      "t": 3.0,
+      "moment": "Number 'One' with a sound hit",
+      "why": "Numbered beats promise progress."
+    }
+  ],
+  "myVersion": {
+    "hook": "The three AI updates that actually matter for creators this week.",
+    "script": "Roundup of three items, one line each, CTA follow."
+  },
+  "source": {
+    "provider": "apify",
+    "fetchedAt": "2026-10-10T08:00:00.000Z",
+    "transcriptTiming": "estimated"
+  }
+}

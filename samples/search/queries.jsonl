@@ -1,0 +1,2 @@
+{"query": "AI agents", "cluster": "agents", "file": "sandcastles-sample.json", "page": 1, "provider": "sandcastles"}
+{"query": "Claude Code", "cluster": "coding", "file": "apify-sample.json", "page": 1, "provider": "apify", "hashtag": "claudecode"}
