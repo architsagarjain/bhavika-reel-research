@@ -38,7 +38,7 @@ This kit runs in Claude Code cloud sessions, not on a laptop. Cloud sessions are
 - `niche.json` is set for women's fitness coaching in India (fat loss, strength, home workouts, Indian nutrition,
   PCOS/thyroid, transformations, myths and habits): 7 clusters, 66 queries, about $1.72 per full Apify search.
 - The original AI-niche example lives in `samples/niche.example.json`; the self-test and `npm run sample-report` use it.
-- Still to do with `/research-setup`: Step 1 (check node/ffmpeg/whisper on this Mac), Step 3 Apify token into `.env`,
+- Still to do with `/research-setup`: check `APIFY_TOKEN` is set in the environment (Step 3, cloud version),
   Step 5 voice (unless `voice.md` is already filled), Step 7 self-test.
   Skip Steps 2 and 4 unless the user asks to change them.
 
