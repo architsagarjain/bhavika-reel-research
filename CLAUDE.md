@@ -35,8 +35,10 @@ This kit runs in Claude Code cloud sessions, not on a laptop. Cloud sessions are
 ## Setup status (done in an earlier session)
 
 - Data source: Apify for both single reels and the daily search (`config.json`). `myHandle` is `fitwithbhavika`.
-- `niche.json` is set for women's fitness coaching in India (fat loss, strength, home workouts, Indian nutrition,
-  PCOS/thyroid, transformations, myths and habits): 7 clusters, 66 queries, about $1.72 per full Apify search.
+- `niche.json` is set for women's fitness coaching in India. The user can't film cooking or gym videos, so the clusters
+  favour talking-head topics: fat loss, food myths, Indian family and marriage pressure, festivals and weddings, food
+  labels and eating out, PCOS/thyroid, pregnancy/postpartum/menopause, transformations, mindset and habits: 9 clusters,
+  82 queries (81 unique hashtags), about $2.11 per full Apify search. Skip cooking and gym reels when suggesting ideas.
 - The original AI-niche example lives in `samples/niche.example.json`; the self-test and `npm run sample-report` use it.
 - Still to do with `/research-setup`: check `APIFY_TOKEN` is set in the environment (Step 3, cloud version),
   Step 5 voice (unless `voice.md` is already filled), Step 7 self-test.
