@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "stamp": "2026-10-16-0810",
+    "provider": "apify",
+    "windowHours": 48,
+    "queries": 21,
+    "rawCount": 210,
+    "keptCount": 5,
+    "generatedAt": "2026-10-16T08:11:02.347Z",
+    "referenceTime": "2026-10-16T08:11:01.919Z",
+    "minViews": 2000,
+    "widened": true,
+    "attempts": [
+      {
+        "windowHours": 24,
+        "kept": 1
+      },
+      {
+        "windowHours": 48,
+        "kept": 5
+      }
+    ],
+    "uniqueReels": 206,
+    "dropped": {
+      "noData": 0,
+      "lowViews": 46,
+      "tooOld": 143,
+      "offTopic": 12
+    },
+    "inputDir": "data/raw/search-2026-10-16-0810",
+    "files": 21
+  },
+  "hits": [
+    {
+      "id": "ig-deermtkddtw",
+      "url": "https://www.instagram.com/reel/DeerMtkDDTW/",
+      "creator": "politent.health",
+      "caption": "వారంలో 2 రోజులు ఉపవాసం  ఉంటే ఆరోగ్యానికి మంచిదేనా.? #IntermittentFasting #fastingbenefits #fastingtips #healthylifestyle  #WeightLoss #DiabetesAwareness #HealthTipsTelugu #DoctorAdvice #MedicalFacts #DrMadhusudhan #PolitentHealth #TeluguHealth #healthawareness #healthtips #wellness #healthyliving #medicaladvice #stayhealthy #politenthealth #politentmedia",
+      "cover": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/848072576_17913488139506348_3535595633097314284_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=101&ig_cache_key=NDAwNzgzMDcwNzk2MzE4MDI0NjE3OTEzNDg4MTM2NTA2MzQ4.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=S84arwqRTCQQ7kNvwF90Syy&_nc_oc=Ado2GUQZ67v5y2RnAAt50FXrpA_BL5UDtJ3C5O4zugEaJyPpvcuMnhbaxJJK2wyEwr0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=e5iTTjwDDGQznX8ujr2G7Q&_nc_ss=7a3ba&oh=00_AQMxVVMbXjk7PwSzsir3NoPa_R5ld3id-ZppcFsbC1IYPA&oe=6AD79820",
+      "views": 128360,
+      "likes": 1646,
+      "comments": 2,
+      "postedAt": "2026-10-14T15:11:34.000Z",
+      "hoursAgo": 41,
+      "viewsPerHour": 3131,
+      "outlier": null,
+      "engagementRate": 0.0171,
+      "clusters": [
+        "myths",
+        "festivals"
+      ],
+      "foundBy": [
+        "intermittent fasting"
+      ],
+      "suspicious": false,
+      "provider": "apify"
+    },
+    {
+      "id": "ig-deehy71mpww",
+      "url": "https://www.instagram.com/reel/DeeHY71MPww/",
+      "creator": "sowtrue.in_",
+      "caption": "The Great American Diet vs Indian Diet: What Does an American Breakfast Really Look Like? 🇺🇸💀\nSame clips. Same script. Different accounts. 😭\nApparently, a viral American toddler eating meat is enough to prove that the American diet is superior to Indian food.\nBut what happens when we audit the actual American breakfast instead of cherry-picking influencer videos?\nIndian food has its flaws, sure. But glorifying an entire country's diet while demonising another based on viral clips isn't nutrition education.\nLet's compare real diets, not Instagram highlight reels.\nFollow @sowtrue.in_ for evidence-based food audits, nutrition myths and health claims that deserve a second look.\nSEO keywords: Indian diet vs American diet, American breakfast nutrition, American diet reality, Indian food vs Western food, American food habits, childhood nutrition, toddler diet, healthy breakfast ideas, processed foods, ultra-processed foods, Indian food myths, nutrition misinformation, balanced diet comparison\n#IndianFood #AmericanDiet #AmericanBreakfast #NutritionFacts #FoodMyths ChildNutrition HealthyBreakfast UltraProcessedFood SowTrue",
+      "cover": "https://scontent-arn2-1.cdninstagram.com/v/t15.5256-10/848073183_1499442788680102_1971461103320694989_n.jpg?stp=dst-jpegr_e15_p360x360_tt6&_nc_cat=111&ig_cache_key=NDAwNzY3MzIxODI0MjUwOTg3Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5oZHIudmlkZW9fZmlyc3RfZnJhbWVfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=r-09ExrsO8UQ7kNvwG_iGua&_nc_oc=AdoMgxBh5uFSy3tvXgRnp3Ft1eFZK5pMwN6TlH55D1GLamr_jv8s6tpuQDXw-udFqAU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=qdU8qOEKfEYDL9MOzBV1Dg&_nc_ss=7a3ba&oh=00_AQOrGXEH6muaqWDOHNRs80H78WB3Qsab-HKe475gdheYCQ&oe=6AD79F8B",
+      "views": 104388,
+      "likes": 4435,
+      "comments": 389,
+      "postedAt": "2026-10-14T10:02:20.000Z",
+      "hoursAgo": 46.1,
+      "viewsPerHour": 2262,
+      "outlier": null,
+      "engagementRate": 0.057,
+      "clusters": [
+        "myths",
+        "mindset"
+      ],
+      "foundBy": [
+        "nutrition facts"
+      ],
+      "suspicious": false,
+      "provider": "apify"
+    },
+    {
+      "id": "ig-degxmtot6cq",
+      "url": "https://www.instagram.com/reel/DegXMtOt6cQ/",
+      "creator": "alexandra.matyja",
+      "caption": "we’re so back baby \n.\n.\n.\n#WeddingSeason #wedding #GirlGang #WeddingReels #GirlsNightOut WeddingParty WeddingOutfit FashionGirls Party Family",
+      "cover": "https://scontent-arn2-1.cdninstagram.com/v/t51.71878-15/848832529_1666903504867353_6311443901454818192_n.jpg?stp=dst-jpg_e15_p360x360_tt6&_nc_cat=101&ig_cache_key=NDAwODMwNTY5NjYyODUxNjYyNDE0NTczODU0NTk2NzQ2NDc%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fdXNlcl9zZWxlY3RlZF90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=OzVH81-X6YEQ7kNvwHdOHOQ&_nc_oc=AdpXeu-5hv5cuhYWgzPT72oR2JAF-l3agDk71y1gx8DLRv7hWRoq96xMXPf157dGJbQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=YVgR3V4g0r2Slp3iPyxu4g&_nc_ss=7a3ba&oh=00_AQMQPd-z2hZJlLT7gNUVTWNAnBI9bsxyRYgZnKLJuf7KUg&oe=6AD79781",
+      "views": 18997,
+      "likes": 312,
+      "comments": 45,
+      "postedAt": "2026-10-15T06:57:49.000Z",
+      "hoursAgo": 25.2,
+      "viewsPerHour": 753,
+      "outlier": null,
+      "engagementRate": 0.0196,
+      "clusters": [
+        "family",
+        "festivals",
+        "lifestages"
+      ],
+      "foundBy": [
+        "wedding season"
+      ],
+      "suspicious": false,
+      "provider": "apify"
+    },
+    {
+      "id": "ig-deefd6fxljs",
+      "url": "https://www.instagram.com/reel/DeefD6fxlJs/",
+      "creator": "kenzymarkello",
+      "caption": "And it works every time\n\n#nutrition #dietitian #comedy #fyp",
+      "cover": "https://scontent-cph2-1.cdninstagram.com/v/t51.71878-15/847665518_1420758576148169_1285184369928022299_n.jpg?stp=dst-jpg_e15_p360x360_tt6&_nc_cat=110&ig_cache_key=NDAwNzc3NzMyNjgxNjcxMTI3Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZmlyc3RfZnJhbWVfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=Fb8ZndMhkvUQ7kNvwEuI0RG&_nc_oc=AdpvIkH8dYpXFx9Wwo1r-6-RF0gCi9jBisuCG5Zdcvv9wxc6wES-dD4F5nfGjFDgLho&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=BFBH8-h0NEN8FsnXxO3QzQ&_nc_ss=7a3ba&oh=00_AQOo3PxGHM0VNNnCzNDXixgFzc85tSBxK9VqGhLvmXVMqA&oe=6AD7BAE8",
+      "views": 23588,
+      "likes": 795,
+      "comments": 16,
+      "postedAt": "2026-10-14T13:29:34.000Z",
+      "hoursAgo": 42.7,
+      "viewsPerHour": 553,
+      "outlier": null,
+      "engagementRate": 0.0752,
+      "clusters": [
+        "myths"
+      ],
+      "foundBy": [
+        "dietitian"
+      ],
+      "suspicious": false,
+      "provider": "apify"
+    },
+    {
+      "id": "ig-deg76rztiny",
+      "url": "https://www.instagram.com/reel/Deg76rzTinY/",
+      "creator": "drnakulrajsinghai",
+      "caption": "Festive season mein sweets enjoy karna hai? 🍬✨\nYou don’t have to completely avoid them — portion size and frequency matter.\n\nHere are 5 popular sweets and what to keep in mind:\n\n🥇 Dry Fruit Laddoo — 9/10\nNuts & seeds make it relatively nutrient-dense, but portions still matter.\n\n🥈 Rasgulla — 8/10\nChenna-based and generally less calorie-dense than many ghee-heavy sweets. 1–2 pieces occasionally can fit in.\n\n🥥 Coconut Burfi — 7.5/10\nCoconut provides some fibre and healthy fats. Prefer versions with less added sugar.\n\n🥜 Kaju Katli — 7.5/10\nCashews provide healthy fats and some protein, but it’s still calorie-dense and contains added sugar.\n\n🫘 Besan Laddoo — 7/10\nBesan provides more protein and fibre than many refined-flour desserts. Homemade, less-sugar versions are a better option.\n\nRemember: You don’t need to fear sweets. Enjoy them mindfully, keep portions small, and maintain a balanced diet. ❤️\n\nSave this reel 📌 for the festive season and share it with someone who loves mithai!\n\nDr. Nakul Raj Singhai\nCancer Surgeon | Surgical Oncologist\n\n[Healthy Festive Eating] [Healthy Sweets] [Festive Season] [Nutrition Tips] [Cancer Prevention] [Healthy Lifestyle] [Oncology] [Jabalpur]\n\n#HealthyEating #FestiveEating #HealthySweets #NutritionTips #CancerAwareness",
+      "cover": "https://scontent-cph2-1.cdninstagram.com/v/t51.82787-15/845230372_18634481296011455_7321982223593381912_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=109&ig_cache_key=NDAwODQ2NzE4NTg2NTIwNjIzMjE4NjM0NDgxMjkzMDExNDU1.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNzAuc2RyLnZpZGVvX3VzZXJfc2VsZWN0ZWRfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=H_oPOapJUIUQ7kNvwG4EoF_&_nc_oc=AdrxjCeT_kBo8VmYtI3jqino-oWoqrR9_WouT-j3jAEYeWX8K3G15MRYYAB_3UfqkotUegEyd1Xm0YFKRkVTn_9t&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=5s50vsud-RMAm5DpBM6vjg&_nc_ss=7a3ba&oh=00_AQO4K9nloIxJrEaXGPl9DkSswN5Y9iEbTrMr0y-nJs3zfg&oe=6AD7A8F4",
+      "views": 3541,
+      "likes": null,
+      "comments": 0,
+      "postedAt": "2026-10-15T12:16:37.000Z",
+      "hoursAgo": 19.9,
+      "viewsPerHour": 178,
+      "outlier": null,
+      "engagementRate": 0.002,
+      "clusters": [
+        "fatloss",
+        "myths",
+        "festivals",
+        "mindset"
+      ],
+      "foundBy": [
+        "festive eating"
+      ],
+      "suspicious": false,
+      "provider": "apify"
+    }
+  ]
+}
