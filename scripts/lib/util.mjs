@@ -9,8 +9,9 @@ import { fileURLToPath } from "node:url";
 export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..", "..");
 
 export const PATHS = {
-  config: path.join(ROOT, "config.json"),
-  niche: path.join(ROOT, "niche.json"),
+  // IRT_CONFIG / IRT_NICHE point the self-test at the sample settings instead of the user's own files.
+  config: process.env.IRT_CONFIG ? path.resolve(ROOT, process.env.IRT_CONFIG) : path.join(ROOT, "config.json"),
+  niche: process.env.IRT_NICHE ? path.resolve(ROOT, process.env.IRT_NICHE) : path.join(ROOT, "niche.json"),
   env: path.join(ROOT, ".env"),
   library: path.join(ROOT, "library", "reels"),
   media: path.join(ROOT, "media"),

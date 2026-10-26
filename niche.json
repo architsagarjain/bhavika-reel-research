@@ -1,5 +1,5 @@
 {
-  "niche": "Women's fitness coaching in India without cooking or gym footage: fat loss, food myths, Indian family and festival life, label reading, hormonal health and mindset, for @fitwithbhavika / PeakX",
+  "niche": "Women's fat loss coaching (English/Hindi talking-head, informational) for @fitwithbhavika (Bhavika Agarwal): food myths, product comparisons, Indian eating habits, festivals, labels, hormonal health and mindset. No cooking or gym footage.",
   "topicTerms": [
     "fitness",
     "fit",
@@ -39,18 +39,8 @@
       "id": "fatloss",
       "label": "Women's fat loss",
       "queries": [
-        "fat loss for women",
         "weight loss journey",
-        "weight loss tips",
-        "belly fat",
-        "lose belly fat",
-        "fat loss tips",
-        "calorie deficit",
-        "how I lost weight",
-        "weight loss India",
-        "inch loss",
-        "body recomposition",
-        "weight loss plateau"
+        "diet tips"
       ],
       "captionTerms": [
         "fat loss",
@@ -73,17 +63,9 @@
       "id": "myths",
       "label": "Food myths and Indian eating habits",
       "queries": [
-        "diet myths",
-        "nutrition myths",
-        "food myths",
-        "nutrition facts",
         "nutritionist",
-        "Indian nutritionist",
         "dietitian",
-        "rice and weight loss",
-        "roti or rice",
-        "ghee benefits",
-        "sugar myths",
+        "nutrition facts",
         "intermittent fasting"
       ],
       "captionTerms": [
@@ -105,15 +87,7 @@
     {
       "id": "family",
       "label": "Indian family life, marriage and body pressure",
-      "queries": [
-        "weight gain after marriage",
-        "body shaming",
-        "body positivity India",
-        "desi mom",
-        "Indian women health",
-        "working women India",
-        "self care for women"
-      ],
+      "queries": [],
       "captionTerms": [
         "marriage",
         "shaadi",
@@ -133,17 +107,7 @@
     {
       "id": "festivals",
       "label": "Festivals and wedding season",
-      "queries": [
-        "Diwali diet",
-        "Diwali weight loss",
-        "festive eating",
-        "wedding weight loss",
-        "bride fitness",
-        "bridal fitness",
-        "wedding season",
-        "Navratri fasting",
-        "Karva Chauth"
-      ],
+      "queries": [],
       "captionTerms": [
         "diwali",
         "festival",
@@ -162,18 +126,7 @@
     {
       "id": "labels",
       "label": "Food labels, shopping and eating out",
-      "queries": [
-        "food labels",
-        "label reading",
-        "read food labels",
-        "packaged food",
-        "healthy or not",
-        "protein bar",
-        "sugar free",
-        "healthy snacks India",
-        "eating out healthy",
-        "food marketing"
-      ],
+      "queries": [],
       "captionTerms": [
         "label",
         "ingredients",
@@ -192,16 +145,7 @@
     {
       "id": "hormonal",
       "label": "PCOS, thyroid and hormonal health",
-      "queries": [
-        "PCOS weight loss",
-        "PCOS diet",
-        "PCOD",
-        "thyroid weight loss",
-        "hormonal belly",
-        "insulin resistance",
-        "cycle syncing",
-        "hormone health"
-      ],
+      "queries": [],
       "captionTerms": [
         "pcos",
         "pcod",
@@ -218,14 +162,7 @@
     {
       "id": "lifestages",
       "label": "Pregnancy, postpartum and menopause",
-      "queries": [
-        "postpartum weight loss",
-        "postpartum body",
-        "pregnancy weight",
-        "perimenopause",
-        "menopause weight gain",
-        "period cravings"
-      ],
+      "queries": [],
       "captionTerms": [
         "postpartum",
         "pregnan",
@@ -240,15 +177,7 @@
     {
       "id": "transformations",
       "label": "Transformations and client results",
-      "queries": [
-        "transformation",
-        "fitness transformation",
-        "before and after",
-        "client transformation",
-        "weight loss transformation",
-        "online fitness coach",
-        "online coaching"
-      ],
+      "queries": [],
       "captionTerms": [
         "transformation",
         "before",
@@ -266,19 +195,7 @@
     {
       "id": "mindset",
       "label": "Myths, habits and mindset",
-      "queries": [
-        "fitness myths",
-        "diet myths",
-        "fitness motivation",
-        "consistency",
-        "healthy habits",
-        "fitness tips",
-        "sleep and weight loss",
-        "emotional eating",
-        "stress eating",
-        "walking for weight loss",
-        "steps a day"
-      ],
+      "queries": [],
       "captionTerms": [
         "myth",
         "truth",
@@ -298,5 +215,55 @@
       ],
       "needsTopicTerm": true
     }
+  ],
+  "excludeTerms": [
+    "recipe",
+    "ingredients",
+    "ingredient",
+    "how to make",
+    "meal prep",
+    "what i eat",
+    "wieiad",
+    "cook",
+    "cooking",
+    "bake",
+    "baked",
+    "air fryer",
+    "tikka",
+    "paratha",
+    "dosa",
+    "idli",
+    "sandwich",
+    "toast",
+    "workout",
+    "reps",
+    "sets",
+    "glute",
+    "squat",
+    "deadlift",
+    "leg day",
+    "bench press",
+    "gym session",
+    "exercise routine"
+  ],
+  "watchlist": [
+    "chandnisinhaa",
+    "grover.fitness",
+    "trainbloom",
+    "drsanthoshjacob",
+    "thefitnesschef_",
+    "amitagadre",
+    "fitwithpratham",
+    "officialsiddharthasingh",
+    "coachhimanshubisht",
+    "dr.saniyasharma",
+    "s.panwar1500",
+    "kabirbrah",
+    "kimberlyjette",
+    "kayladurden",
+    "radhikathakur.in",
+    "sowtrue.in_",
+    "hudge_singh",
+    "shweta_shah_nutritionist"
   ]
 }

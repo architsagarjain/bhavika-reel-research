@@ -37,8 +37,12 @@ This kit runs in Claude Code cloud sessions, not on a laptop. Cloud sessions are
 - Data source: Apify for both single reels and the daily search (`config.json`). `myHandle` is `fitwithbhavika`.
 - `niche.json` is set for women's fitness coaching in India. The user can't film cooking or gym videos, so the clusters
   favour talking-head topics: fat loss, food myths, Indian family and marriage pressure, festivals and weddings, food
-  labels and eating out, PCOS/thyroid, pregnancy/postpartum/menopause, transformations, mindset and habits: 9 clusters,
-  82 queries (81 unique hashtags), about $2.11 per full Apify search. Skip cooking and gym reels when suggesting ideas.
+  labels and eating out, PCOS/thyroid, pregnancy/postpartum/menopause, transformations, mindset and habits.
+  Hashtag search returned mostly old reels, so only 6 hashtags with recent 50K+ reels are kept. The main source is the
+  creator `watchlist` (18 handles, about $0.56 per pull with `apify-creators.mjs`); reels are scored against each
+  creator's median views. `excludeTerms` drops recipe and workout reels. Skip cooking and gym reels when suggesting ideas.
+- Bhavika's own best reels: talking head with props (Coke comparison, 29K) and text-only "details in caption" (30K,
+  1,170 comments). Reel ideas doc: https://claude.ai/artifact/FFG5QKyFHxan7yAXFB1FdL
 - The original AI-niche example lives in `samples/niche.example.json`; the self-test and `npm run sample-report` use it.
 - Still to do with `/research-setup`: check `APIFY_TOKEN` is set in the environment (Step 3, cloud version),
   Step 5 voice (unless `voice.md` is already filled), Step 7 self-test.
@@ -51,9 +55,11 @@ This kit runs in Claude Code cloud sessions, not on a laptop. Cloud sessions are
 | `provider` | `sandcastles`, `apify`, `ytdlp`, `any` | Where single-reel data comes from (`/reel-research`) |
 | `searchProvider` | `sandcastles`, `apify` | Where the daily niche search runs (`/outliers`). yt-dlp can't search |
 | `inboxPath` | a file path (`~` allowed) | The `inbox.txt` the iPhone Shortcut appends reel links to |
-| `windowHours` | `24` | Outlier window. The script widens to `maxWindowHours` only when fewer than 15 reels qualify |
-| `maxWindowHours` | `48` | Hard ceiling for the outlier window. Never wider |
-| `minViews` | `2000` | Reels under this are dropped from outlier reports |
+| `windowHours` | `168` | Outlier window. The script widens to `maxWindowHours` only when fewer than 15 reels qualify |
+| `maxWindowHours` | `168` | Ceiling for the outlier window (7 days at most, set by the user) |
+| `minViews` | `50000` | Reels under this are dropped from outlier reports |
+| `minEngagement` | `0.015` | Reels with visible likes under this engagement rate are dropped |
+| `languages` | `["en","hi"]` | Only English and Hindi/Hinglish captions are kept |
 | `transcription` | `auto` | `auto` = use the provider's transcript when it has one, else local Whisper |
 | `myHandle` | `""` | Optional. The user's own Instagram handle |
 
@@ -77,6 +83,8 @@ The provider contract (what fields every source must supply) is `providers/READM
 node scripts/apify-reel.mjs <url...> [--transcript] [--no-video]     # Apify: data/raw/apify-reel-<id>.json + media/<id>/
 node scripts/apify-search.mjs [--limit 10] [--clusters a,b] [--keyword] [--max-usd 5] [--dry-run] [--stamp <stamp>]
                                                                       # Apify niche search -> data/raw/search-<stamp>/
+node scripts/apify-creators.mjs [--limit 12] [--only a,b] [--max-usd 2] [--dry-run] [--stamp <stamp>]
+                                                                      # latest reels of niche.json "watchlist" creators
 node scripts/ytdlp-reel.mjs <url...> [--no-video]                    # yt-dlp: data/raw/ytdlp-<id>.json + media/<id>/
 
 # shape and check

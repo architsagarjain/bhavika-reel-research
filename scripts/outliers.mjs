@@ -1,11 +1,12 @@
 #!/usr/bin/env node
 // Daily outlier report: merge every search result file from one run, keep the reels that outperformed in the last
-// 24 hours (48 at most), and write reports/<stamp>.json + reports/<stamp>.html.
+// 24 hours (48 at most, or up to 7 days when config.maxWindowHours says so), and write reports/<stamp>.json + reports/<stamp>.html.
 // Reads Sandcastles and Apify result files (auto-detected per file) and bring-your-own JSON, all in one folder.
 import { existsSync, readFileSync, readdirSync, statSync } from "node:fs";
 import path from "node:path";
 import { page } from "./lib/html.mjs";
 import {
+  HARD_MAX_WINDOW_HOURS,
   HOT_OUTLIER,
   MAX_WINDOW_HOURS,
   MIN_HITS_BEFORE_WIDEN,
@@ -15,6 +16,8 @@ import {
   detectShape,
   finalizeHit,
   hitBasesFrom,
+  isEnglishOrHindi,
+  isExcluded,
   isOnTopic,
   nicheQueries,
   slugify,
@@ -28,7 +31,7 @@ Usage:
 
 Options:
   --in DIR          folder with the run's result files (default: newest data/raw/search-*)
-  --hours N         window in hours, 48 at most (default 24; widens to 48 by itself when under ${MIN_HITS_BEFORE_WIDEN} reels)
+  --hours N         window in hours, capped at config maxWindowHours (default 24; widens to it by itself when under ${MIN_HITS_BEFORE_WIDEN} reels)
   --min-views N     drop reels under this many views (default: minViews in config.json, ${MIN_VIEWS})
   --out DIR         where to write the report (default reports/)
   --stamp STAMP     report name (default: taken from the folder name, else now)
@@ -131,14 +134,16 @@ if (!files.length) die(`No .json result files in ${rel(dir)}.`, 2);
 const now = flags.now ? Date.parse(flags.now) : Date.now();
 if (!Number.isFinite(now)) die(`--now must be an ISO date (got ${flags.now})`, 2);
 const minViews = Math.max(0, Number(flags["min-views"] ?? config.minViews ?? MIN_VIEWS) || 0);
-const maxWindow = Math.min(MAX_WINDOW_HOURS, Number(config.maxWindowHours) || MAX_WINDOW_HOURS);
+const maxWindow = Math.min(HARD_MAX_WINDOW_HOURS, Number(config.maxWindowHours) || MAX_WINDOW_HOURS);
+const minEngagement = Math.max(0, Number(config.minEngagement) || 0);
+const languageFilter = Array.isArray(config.languages) && config.languages.length > 0;
 let hoursFlag = null;
 if (flags.hours !== undefined) {
   hoursFlag = Number(flags.hours);
   if (!Number.isFinite(hoursFlag) || hoursFlag <= 0) die("--hours must be a positive number", 2);
-  if (hoursFlag > MAX_WINDOW_HOURS) {
-    console.log(`note: --hours ${hoursFlag} is wider than ${MAX_WINDOW_HOURS}; using ${MAX_WINDOW_HOURS} (older reels are not news anymore).`);
-    hoursFlag = MAX_WINDOW_HOURS;
+  if (hoursFlag > maxWindow) {
+    console.log(`note: --hours ${hoursFlag} is wider than ${maxWindow}; using ${maxWindow} (older reels are not news anymore).`);
+    hoursFlag = maxWindow;
   }
 }
 const baseWindow = hoursFlag ?? Math.min(maxWindow, Number(config.windowHours) || WINDOW_HOURS);
@@ -215,8 +220,25 @@ for (const file of files) {
 }
 for (const m of manifest.values()) for (const line of m) if (line.query) allQueries.add(String(line.query));
 
+// Creator baseline: when a run holds 5+ reels from one creator (a watchlist run), score each reel against that
+// creator's median views. A provider's own outlier score always wins.
+const byCreator = new Map();
+for (const { base } of byId.values()) {
+  if (base.views === null || !base.creator) continue;
+  if (!byCreator.has(base.creator)) byCreator.set(base.creator, []);
+  byCreator.get(base.creator).push(base.views);
+}
+for (const { base } of byId.values()) {
+  const views = byCreator.get(base.creator);
+  if (base.outlier !== null || base.views === null || !views || views.length < 5) continue;
+  const sorted = [...views].sort((a, b) => a - b);
+  const mid = sorted.length >> 1;
+  const median = sorted.length % 2 ? sorted[mid] : (sorted[mid - 1] + sorted[mid]) / 2;
+  if (median > 0) base.outlier = Math.round((base.views / median) * 10) / 10;
+}
+
 function cut(hours) {
-  const dropped = { noData: 0, lowViews: 0, tooOld: 0, offTopic: 0 };
+  const dropped = { noData: 0, lowViews: 0, tooOld: 0, offTopic: 0, language: 0, excluded: 0, lowEngagement: 0 };
   const hits = [];
   for (const { base, foundBy } of byId.values()) {
     if (!base.postedAt || base.views === null) { dropped.noData++; continue; }
@@ -224,6 +246,9 @@ function cut(hours) {
     const hit = finalizeHit(base, { now, niche, foundBy: [...foundBy] });
     if (hit.hoursAgo > hours) { dropped.tooOld++; continue; }
     if (!isOnTopic(hit.caption, hit.clusters, niche)) { dropped.offTopic++; continue; }
+    if (languageFilter && !isEnglishOrHindi(hit.caption)) { dropped.language++; continue; }
+    if (isExcluded(hit.caption, niche)) { dropped.excluded++; continue; }
+    if (minEngagement && hit.likes !== null && hit.engagementRate !== null && hit.engagementRate < minEngagement) { dropped.lowEngagement++; continue; }
     hits.push(hit);
   }
   return { hits: hits.sort(compareHits), dropped };
@@ -253,6 +278,7 @@ const meta = {
   generatedAt: new Date().toISOString(),
   referenceTime: new Date(now).toISOString(),
   minViews,
+  minEngagement,
   widened,
   attempts,
   uniqueReels: byId.size,
@@ -270,7 +296,7 @@ writeText(htmlFile, renderReport(meta, result.hits, outDir));
 // Console summary.
 const provLabel = meta.provider.replace("+", " + ");
 console.log(`\nOutliers ${stamp} | ${provLabel} | window ${windowHours}h${widened ? ` (widened: only ${attempts[0].kept} reels in ${attempts[0].windowHours}h)` : ""}`);
-console.log(`${rawCount} results from ${files.length} files, ${byId.size} unique reels, ${result.hits.length} kept | dropped: ${result.dropped.tooOld} older, ${result.dropped.lowViews} under ${fmtNum(minViews)} views, ${result.dropped.offTopic} off topic, ${result.dropped.noData} without date/views`);
+console.log(`${rawCount} results from ${files.length} files, ${byId.size} unique reels, ${result.hits.length} kept | dropped: ${result.dropped.tooOld} older, ${result.dropped.lowViews} under ${fmtNum(minViews)} views, ${result.dropped.offTopic} off topic, ${result.dropped.noData} without date/views, ${result.dropped.language} other language, ${result.dropped.excluded} excluded format, ${result.dropped.lowEngagement} low engagement`);
 if (skippedFiles.length) console.log(`skipped files: ${skippedFiles.join(", ")}`);
 for (const hit of result.hits.slice(0, 10)) {
   const score = hit.outlier !== null ? `${hit.outlier}x`.padStart(6) : `${fmtNum(hit.viewsPerHour)}/h`.padStart(6);

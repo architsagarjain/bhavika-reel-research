@@ -1,0 +1,293 @@
+{
+  "meta": {
+    "stamp": "2026-10-16-0831",
+    "provider": "apify",
+    "windowHours": 168,
+    "queries": 24,
+    "rawCount": 266,
+    "keptCount": 11,
+    "generatedAt": "2026-10-16T08:32:39.716Z",
+    "referenceTime": "2026-10-16T08:32:39.315Z",
+    "minViews": 50000,
+    "minEngagement": 0.015,
+    "widened": false,
+    "attempts": [
+      {
+        "windowHours": 168,
+        "kept": 11
+      }
+    ],
+    "uniqueReels": 263,
+    "dropped": {
+      "noData": 0,
+      "lowViews": 152,
+      "tooOld": 63,
+      "offTopic": 14,
+      "language": 5,
+      "excluded": 9,
+      "lowEngagement": 9
+    },
+    "inputDir": "data/raw/search-2026-10-16-0831",
+    "files": 24
+  },
+  "hits": [
+    {
+      "id": "ig-deehy71mpww",
+      "url": "https://www.instagram.com/reel/DeeHY71MPww/",
+      "creator": "sowtrue.in_",
+      "caption": "The Great American Diet vs Indian Diet: What Does an American Breakfast Really Look Like? 🇺🇸💀\nSame clips. Same script. Different accounts. 😭\nApparently, a viral American toddler eating meat is enough to prove that the American diet is superior to Indian food.\nBut what happens when we audit the actual American breakfast instead of cherry-picking influencer videos?\nIndian food has its flaws, sure. But glorifying an entire country's diet while demonising another based on viral clips isn't nutrition education.\nLet's compare real diets, not Instagram highlight reels.\nFollow @sowtrue.in_ for evidence-based food audits, nutrition myths and health claims that deserve a second look.\nSEO keywords: Indian diet vs American diet, American breakfast nutrition, American diet reality, Indian food vs Western food, American food habits, childhood nutrition, toddler diet, healthy breakfast ideas, processed foods, ultra-processed foods, Indian food myths, nutrition misinformation, balanced diet comparison\n#IndianFood #AmericanDiet #AmericanBreakfast #NutritionFacts #FoodMyths ChildNutrition HealthyBreakfast UltraProcessedFood SowTrue",
+      "cover": "https://scontent-fra3-2.cdninstagram.com/v/t15.5256-10/848073183_1499442788680102_1971461103320694989_n.jpg?stp=dst-jpegr_e15_tt6&_nc_cat=111&ig_cache_key=NDAwNzY3MzIxODI0MjUwOTg3Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5oZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=r-09ExrsO8UQ7kNvwGSFh8F&_nc_oc=AdrZASM9ZbW5uPJ3kRNWxjUP93RKvBjQtq83vpdY2A0C3NgR2Q5Z9fxBJKPWV6fkNZophwOt_gDeeGTZ4y8ioltz&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_gid=ocNAQKmLuyINfGaHfjXu4Q&_nc_ss=7a20f&oh=00_AQOuqgPimMeVcfJVoTIMy45cUPN9Sbk3knOi4u0cKXvyKg&oe=6AD79F8B",
+      "views": 104476,
+      "likes": 4440,
+      "comments": 389,
+      "postedAt": "2026-10-14T10:02:20.000Z",
+      "hoursAgo": 46.5,
+      "viewsPerHour": 2247,
+      "outlier": 22.4,
+      "engagementRate": 0.0462,
+      "clusters": [
+        "myths",
+        "mindset"
+      ],
+      "foundBy": [
+        "@sowtrue.in_",
+        "nutrition facts"
+      ],
+      "suspicious": false,
+      "provider": "apify"
+    },
+    {
+      "id": "ig-debagwfqwu0",
+      "url": "https://www.instagram.com/reel/DebAgWFqwu0/",
+      "creator": "officialsiddharthasingh",
+      "caption": "3 simple Indian dinners for your weight loss journey! 🍽️💪\n\nRajma rice, egg bhurji with chapati, or low fat paneer : follow the 50-25-25 plate rule and keep your meals balanced without making them boring. Save this for dinner inspiration!\n\nDM PEAK to know more about our online personalised transformation program.\n\n[Weight Loss Dinner | Indian Meals | 50-25-25 Rule | High Protein | Healthy Eating | Fat Loss | Nutrition Tips]",
+      "cover": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/846086987_18639590632001941_2076337499906023486_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=NDAwNjc5ODUxNjIxNjg1OTU3MjE4NjM5NTkwNjI5MDAxOTQx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=hUiPfGP4e14Q7kNvwErBTwF&_nc_oc=AdrQ8xk0RIbScLNmPFsNd9pfXd33P9_4Cjh7roHlja-FFDeTrXR1IfKHk4iQQ2BXI8M&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=ass2rTbaiFIclBthPtzi5g&_nc_ss=7a20f&oh=00_AQM7uiLmfbXws1jk8j7k30CjYQKmEiPo-ng2lSb1QMmV-A&oe=6AD7BC49",
+      "views": 68989,
+      "likes": 1021,
+      "comments": 27,
+      "postedAt": "2026-10-13T05:03:29.000Z",
+      "hoursAgo": 75.5,
+      "viewsPerHour": 914,
+      "outlier": 2.8,
+      "engagementRate": 0.0152,
+      "clusters": [
+        "fatloss",
+        "myths",
+        "transformations",
+        "mindset"
+      ],
+      "foundBy": [
+        "@officialsiddharthasingh"
+      ],
+      "suspicious": false,
+      "provider": "apify"
+    },
+    {
+      "id": "ig-derlzgwtsct",
+      "url": "https://www.instagram.com/reel/DeRlzgwTsCT/",
+      "creator": "shweta_shah_nutritionist",
+      "caption": "Struggling with cough, chest congestion, or a blocked nose? 🤧 This traditional ajwain potli remedy is often used for comfort. 🌿\n\n⚠️ Avoid camphor remedies for children unless advised by a healthcare professional. Never microwave a potli containing camphor, and avoid hot compresses that could cause burns.\n\n#CoughRelief #NaturalWellness #HomeRemedies #GutAndHealth #HealthyLiving\n\n[ajwain potli for cough, natural cough relief, blocked nose home remedy, chest congestion relief, ajwain home remedy, traditional Indian home remedies, cough and cold remedies, natural wellness tips, ajwain and garlic remedy, congestion relief tips, kids cough remedies, elderly cough care, Ayurvedic home remedies, respiratory wellness, home remedies for cold, Indian traditional remedies, seasonal cough and cold, natural health tips, wellness reels, desi nuskhe for cough]",
+      "cover": "https://instagram.fbjx4-1.fna.fbcdn.net/v/t51.82787-15/839010287_18227629336328541_2816694204588329822_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=NDAwNDE0NzgxMTI5MzUxMTgyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjU0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=nnFjkLRZoJQQ7kNvwH-pPe9&_nc_oc=AdqU6k4v5dc18MiLZ_FbiPzOxN80BChNLEJk_GJQSOHOe7odDDt_CVDI60S8dmxcA-S0p36FCRh15u0gH-LALgBv&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fbjx4-1.fna&_nc_gid=L1rQOG7IIVeucDZ1x0hVLQ&_nc_ss=7a20f&oh=00_AQPJf1d24CWSqfrAxcuM1W-Q-M6O7YmHdbq2Oypz_BToUw&oe=6AD7ADD1",
+      "views": 126965,
+      "likes": 1913,
+      "comments": 31,
+      "postedAt": "2026-10-09T13:15:16.000Z",
+      "hoursAgo": 163.3,
+      "viewsPerHour": 778,
+      "outlier": 1.8,
+      "engagementRate": 0.0153,
+      "clusters": [
+        "mindset"
+      ],
+      "foundBy": [
+        "@shweta_shah_nutritionist"
+      ],
+      "suspicious": false,
+      "provider": "apify"
+    },
+    {
+      "id": "ig-degy7iqohjd",
+      "url": "https://www.instagram.com/reel/Degy7iqoHJD/",
+      "creator": "fitwithpratham",
+      "caption": "Comment “b12” get free ebook. If you have low b12 you are at right place. @dso_health follow our supplement channel we are launching Indians best b12 soon! #b12 #vitaminb12",
+      "cover": "https://instagram.fbrs4-2.fna.fbcdn.net/v/t51.71878-15/851829110_1784009199504940_6673028239047560559_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=NDAwODQyNzY2MjM1NjgwNDE2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=TuedPyfFjk8Q7kNvwHYTq9x&_nc_oc=Adqt5Spt-M1XT89AtY7EKYeaFPp17WlnshsL5_E0_BhJ6GHs0WvTPHhWyEIQ3ZLCucc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fbrs4-2.fna&_nc_gid=2hgGn5Mb6ZiVgyPUHGr0gg&_nc_ss=7a20f&oh=00_AQMpUC0imci9b84gqcRvdhuEnzivu5zzht5JGpvc1LrQtA&oe=6AD7C131",
+      "views": 190963,
+      "likes": 3105,
+      "comments": 2089,
+      "postedAt": "2026-10-15T11:02:59.000Z",
+      "hoursAgo": 21.5,
+      "viewsPerHour": 8884,
+      "outlier": 1.3,
+      "engagementRate": 0.0272,
+      "clusters": [],
+      "foundBy": [
+        "@fitwithpratham"
+      ],
+      "suspicious": false,
+      "provider": "apify"
+    },
+    {
+      "id": "ig-deecsvybhqc",
+      "url": "https://www.instagram.com/reel/DeecSvyBhqC/",
+      "creator": "kabirbrah",
+      "caption": "Why do you think oats are a staple in so many athletes’ diets? 👀\n\nIt’s not because they’re some “fitness food.”\n\nIt’s because the best foods for a serious routine are usually the ones that are simple, filling, predictable and easy to repeat.\n\nThat’s what makes a food sustainable — not how exciting it looks on day one, but how easily you can keep eating it months later.\n\nWhat’s your go-to breakfast when you’re trying to stay consistent? 👇\n\nUse code DCKABIR on @thedrchoice.\n\n#kabirbrah #breakfast #fitnessindia #oats #gymlife",
+      "cover": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/845505454_18638502646026932_5373603212557698220_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=NDAwNzc2NTE1MTk2NDMzODgxODE4NjM4NTAyNjQzMDI2OTMy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=UqbhesDijksQ7kNvwG7v290&_nc_oc=AdrlHpH_WvLNAiU8dwJEyOI2D7lWSQxV3aZ8DbQam1KsjFcttRRJj2wiR17CAK53Mk59WAVah6DA1fXbaSpqYzsT&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_gid=FV1KU4B8qmMAtHF28OARvA&_nc_ss=7a20f&oh=00_AQPKsE8ByNBKhmxtMuUYKOqhgkeVLUI6BEz2SZtGSMwKlg&oe=6AD7B091",
+      "views": 131302,
+      "likes": 7048,
+      "comments": 22,
+      "postedAt": "2026-10-14T13:00:04.000Z",
+      "hoursAgo": 43.5,
+      "viewsPerHour": 3015,
+      "outlier": 1.2,
+      "engagementRate": 0.0538,
+      "clusters": [
+        "mindset"
+      ],
+      "foundBy": [
+        "@kabirbrah"
+      ],
+      "suspicious": false,
+      "provider": "apify"
+    },
+    {
+      "id": "ig-debvwtboqsr",
+      "url": "https://www.instagram.com/reel/DebvwTboQsr/",
+      "creator": "fitwithpratham",
+      "caption": "Why isabgol is getting popular now days where it was before! \nMarketing was not hitting it till now but, now everyone is talking about it cause it’s cheap and good gut supplement! [ isabgol, gut health, constipation, piles ]",
+      "cover": "https://scontent-lga3-2.cdninstagram.com/v/t15.5256-10/848718352_964819412787218_7259032679689383522_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=NDAwNzAwNjMyMTA2MTcyNzAxOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=AuNqdJreKNIQ7kNvwH6oy-B&_nc_oc=AdrP-uhAFmF9WVU8jQK_NJVYNIjFVH2hieSiEoLxfnXlwzzthc3Y6EDEt8Sy5lybPV0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=tpPi4ZZ9x5fhPSYlW9Ehkw&_nc_ss=7a20f&oh=00_AQO6EnMTk3cnzIXJZdJ_iN_kDgTYbD4R6qWhZ5WNSMGMug&oe=6AD7C39C",
+      "views": 150241,
+      "likes": 2474,
+      "comments": 159,
+      "postedAt": "2026-10-13T11:55:22.000Z",
+      "hoursAgo": 68.6,
+      "viewsPerHour": 2189,
+      "outlier": 1,
+      "engagementRate": 0.0175,
+      "clusters": [
+        "labels",
+        "transformations"
+      ],
+      "foundBy": [
+        "@fitwithpratham"
+      ],
+      "suspicious": false,
+      "provider": "apify"
+    },
+    {
+      "id": "ig-debwfs1odiz",
+      "url": "https://www.instagram.com/reel/DebWFS1odiz/",
+      "creator": "fitwithpratham",
+      "caption": "Reduce thyroid from today! Comment “thyroid” get free ebook.",
+      "cover": "https://scontent-ber1-1.cdninstagram.com/v/t51.82787-15/846101418_18035533415912383_1896796712113231385_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=NDAwNjg5MzQxNDMyMzk2ODE3OTE4MDM1NTMzNDA5OTEyMzgz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=URDR40jkr-cQ7kNvwEbjEtc&_nc_oc=Adr5elXxWVL-sU-7u873feHr2FwATdEusxK5dxlAT6T4w0fHXtro4CYmvIMj363OdHE&_nc_ad=z-m&_nc_cid=1365&_nc_zt=23&_nc_ht=scontent-ber1-1.cdninstagram.com&_nc_gid=xGgO9iNelSnjf0PwgqLo3Q&_nc_ss=7a20f&oh=00_AQPFjLAWFs1W3kNcQekGFCA7EPyxtwXttH6Yb9ogM_6qDg&oe=6AD7B7EC",
+      "views": 120494,
+      "likes": 1638,
+      "comments": 471,
+      "postedAt": "2026-10-13T08:12:35.000Z",
+      "hoursAgo": 72.3,
+      "viewsPerHour": 1666,
+      "outlier": 0.8,
+      "engagementRate": 0.0175,
+      "clusters": [
+        "hormonal"
+      ],
+      "foundBy": [
+        "@fitwithpratham"
+      ],
+      "suspicious": false,
+      "provider": "apify"
+    },
+    {
+      "id": "ig-ded8vxcoyii",
+      "url": "https://www.instagram.com/reel/Ded8VXcoyiI/",
+      "creator": "fitwithpratham",
+      "caption": "Comment “diet” get free ebook. Prevent heart attack 10 years before it starts to block arteries [ prevent heart attack ]",
+      "cover": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/848696605_18035674373912383_1540276795256757497_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=NDAwNzYyNDU5NDUwNTgwMzkxMjE4MDM1Njc0MzcwOTEyMzgz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=T0L4BGczRcAQ7kNvwFlfBtW&_nc_oc=AdrGM7f_TdUuo1DerivFbOnuIIdSMJcZSgLYYDC__g4gJWuFBETQdtTWhfLBKSOC7dA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_gid=0xc-AXwYfwSq_A9zAGqTUw&_nc_ss=7a20f&oh=00_AQOHH29XAa7VmUQs1WDzhpeU4FGwtNc79vkjiG0yVFPwSA&oe=6AD7CC14",
+      "views": 75652,
+      "likes": 1559,
+      "comments": 1355,
+      "postedAt": "2026-10-14T08:26:29.000Z",
+      "hoursAgo": 48.1,
+      "viewsPerHour": 1573,
+      "outlier": 0.5,
+      "engagementRate": 0.0385,
+      "clusters": [
+        "transformations"
+      ],
+      "foundBy": [
+        "@fitwithpratham"
+      ],
+      "suspicious": false,
+      "provider": "apify"
+    },
+    {
+      "id": "ig-deineoziscx",
+      "url": "https://www.instagram.com/reel/DeineoZIsCx/",
+      "creator": "fitwithpratham",
+      "caption": "Future of health care is like tesla flying car",
+      "cover": "https://instagram.ferf1-1.fna.fbcdn.net/v/t51.71878-15/846347454_1794238801916957_4027624602142637108_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=1&ig_cache_key=NDAwODk0MDI0NzA4Mjc3ODgwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=uAlPBCa30TMQ7kNvwE3MaHf&_nc_oc=AdpMYBUBWEJG7k9PZZ9NvYi0cn6sjSRd6nyqcjcFwNli2RBhPKQoFgssToDfuZk5A9A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ferf1-1.fna&_nc_gid=8vlgKIW28ky2xrhP0515rA&_nc_ss=7a20f&oh=00_AQPgNDDtv7RQWf0tJ-4WvWk1sPAaj8B-s0J3Nhz-5ibg4Q&oe=6AD79D3D",
+      "views": 63206,
+      "likes": 1249,
+      "comments": 31,
+      "postedAt": "2026-10-16T03:57:56.000Z",
+      "hoursAgo": 4.6,
+      "viewsPerHour": 13804,
+      "outlier": 0.4,
+      "engagementRate": 0.0203,
+      "clusters": [],
+      "foundBy": [
+        "@fitwithpratham"
+      ],
+      "suspicious": false,
+      "provider": "apify"
+    },
+    {
+      "id": "ig-dezrlqgmfme",
+      "url": "https://www.instagram.com/reel/DeZrlqGMfmE/",
+      "creator": "alieisam",
+      "caption": "☕️ 40G OF PROTEIN IN MY COFFEE?! 💪🔥\nWhy drink regular coffee when you can turn it into a protein-packed breakfast?\nOne of my favorite ways to break my fast is with protein coffee using Legion protein powder.\n✅ 40g of protein to support muscle growth and recovery\n✅ Helps keep you satisfied longer\n✅ Coffee for energy + protein for your fitness goals\nGetting lean doesn’t have to be complicated. It’s about building smarter habits you can maintain.\nWant to learn how I combine fasting, nutrition, and training to stay lean? DM me “SHRED” \n\nSupplement by @legion \nLink in bio \nAlieisam",
+      "cover": "https://scontent-arn2-1.cdninstagram.com/v/t51.71878-15/844417628_1912831249433767_5631897465227589238_n.jpg?stp=dst-jpg_e15_p360x360_tt6&_nc_cat=107&ig_cache_key=NDAwNjQyNTA0NzM0NDQ3ODU5NjEwNDk2MDI5NjE0NjI0NjQ%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fdXNlcl9zZWxlY3RlZF90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=hwy7s49nyhMQ7kNvwETZV3Z&_nc_oc=Ado0VtvxkTv3nRC3psC8jnRFEwxj2Q6z-NWwK-lnP1CY5SGi1BlGwwTBdL1oYdgr1fk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=e5iTTjwDDGQznX8ujr2G7Q&_nc_ss=7a3ba&oh=00_AQOP28U5PZcEBw3UmEbAbhdjJrn0tY1LshC9VGuSuCQhBw&oe=6AD7A488",
+      "views": 101174,
+      "likes": 2016,
+      "comments": 23,
+      "postedAt": "2026-10-12T16:42:03.000Z",
+      "hoursAgo": 87.8,
+      "viewsPerHour": 1152,
+      "outlier": null,
+      "engagementRate": 0.0202,
+      "clusters": [
+        "myths",
+        "festivals",
+        "transformations",
+        "mindset"
+      ],
+      "foundBy": [
+        "intermittent fasting"
+      ],
+      "suspicious": false,
+      "provider": "apify"
+    },
+    {
+      "id": "ig-dexaqriipcr",
+      "url": "https://www.instagram.com/reel/DeXaQRIipCr/",
+      "creator": "theclarissajohnson",
+      "caption": "Lord, I’m trying to take care of the temple, but some of these tenants refuse to leave. 😭😂\n\n#ChristianHumor #GymHumor #WeightLossJourney #FitnessHumor #MomFitness",
+      "cover": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/845427008_18640285831044525_1328030330947199482_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=106&ig_cache_key=NDAwNTc4NTg2MDY4NzE3MTc1NTE4NjQwMjg1ODIyMDQ0NTI1.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fdXNlcl9zZWxlY3RlZF90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=2tpV25nv5u0Q7kNvwH7TJIG&_nc_oc=AdoIQk3Ir0dp1Dl8ZV_WHMzeR7A2y1NZYGu_MxRiHuSR9OKEAYWFzV9Mvg6YYVz0s_Y&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=86lZplGqcH5njhEZ6_JLnQ&_nc_ss=7a3ba&oh=00_AQPP7o8jGMPgTXLyHKHqeeqIYqXkkl-GOpN7qzwCbAHieA&oe=6AD4F762",
+      "views": 59576,
+      "likes": 3622,
+      "comments": 42,
+      "postedAt": "2026-10-11T19:29:17.000Z",
+      "hoursAgo": 109.1,
+      "viewsPerHour": 546,
+      "outlier": null,
+      "engagementRate": 0.1141,
+      "clusters": [
+        "family"
+      ],
+      "foundBy": [
+        "weight loss journey"
+      ],
+      "suspicious": false,
+      "provider": "apify"
+    }
+  ]
+}

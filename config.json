@@ -2,9 +2,14 @@
   "provider": "apify",
   "searchProvider": "apify",
   "inboxPath": "inbox.txt",
-  "windowHours": 24,
-  "maxWindowHours": 48,
-  "minViews": 2000,
+  "windowHours": 168,
+  "maxWindowHours": 168,
+  "minViews": 50000,
   "transcription": "auto",
-  "myHandle": "fitwithbhavika"
+  "myHandle": "fitwithbhavika",
+  "minEngagement": 0.015,
+  "languages": [
+    "en",
+    "hi"
+  ]
 }

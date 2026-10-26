@@ -16,7 +16,7 @@ function check(name, ok, detail = "") {
   console.log(`${ok ? "PASS" : "FAIL"}  ${name}${!ok && detail ? `  (${detail})` : ""}`);
 }
 const tmp = mkdtempSync(path.join(os.tmpdir(), "irt-selftest-"));
-const env = { ...process.env, IRT_NO_DOTENV: "1", APIFY_TOKEN: "" };
+const env = { ...process.env, IRT_NO_DOTENV: "1", APIFY_TOKEN: "", IRT_CONFIG: "samples/config.example.json", IRT_NICHE: "samples/niche.example.json" };
 const EX_NICHE = path.join(ROOT, "samples/niche.example.json");
 function run(script, args = [], extraEnv = {}) {
   if ((script === "outliers.mjs" || script === "apify-search.mjs") && !args.includes("--help") && !args.includes("--bogus")) args = [...args, "--niche", EX_NICHE];

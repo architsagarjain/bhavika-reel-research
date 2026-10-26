@@ -12,8 +12,10 @@ export const PLATFORMS = ["instagram", "tiktok", "youtube"];
 export const MIN_VIEWS = 2000;
 /** Default outlier window. */
 export const WINDOW_HOURS = 24;
-/** The window may widen to this, never wider. */
+/** The window may widen to this, never wider (unless config.maxWindowHours raises it). */
 export const MAX_WINDOW_HOURS = 48;
+/** config.maxWindowHours can raise the ceiling up to this (7 days), never further. */
+export const HARD_MAX_WINDOW_HOURS = 168;
 /** Under this many hits in the 24h window, the report widens to 48h (unless --hours is given). */
 export const MIN_HITS_BEFORE_WIDEN = 15;
 /** Outlier score at or above this is "hot" (champagne badge). */
@@ -678,4 +680,32 @@ export function validateOutlierHit(h) {
   if (typeof h.suspicious !== "boolean") errors.push("suspicious must be true or false");
   if (!HIT_PROVIDERS.includes(h.provider)) errors.push(`provider must be one of ${HIT_PROVIDERS.join(", ")}`);
   return errors;
+}
+
+const EN_HI_WORDS = new Set("the and you your is are to of for this that it in on with my me i we not do how why what if or but be can hai ka ki ke ko se mein nahi kya aur toh bhi hi tum aap ye yeh woh hota karo kar".split(" "));
+const OTHER_WORDS = new Set("yang dan ini itu untuk tidak dengan kamu ada aku saya boleh tak nak kena sangat juga lagi de la el que los las para por con una del est les des und der die das ist ve bir bu ile için ne da je".split(" "));
+
+/** True when a caption reads as English or Hindi (Devanagari or Hinglish). Other scripts and other Latin-script languages fail. */
+export function isEnglishOrHindi(caption) {
+  const text = String(caption ?? "").replace(/[#@][\p{L}\p{N}_.]+/gu, " ");
+  const letters = [...text].filter((ch) => /\p{L}/u.test(ch));
+  if (!letters.length) return true;
+  const other = letters.filter((ch) => !(/[A-Za-z\u00C0-\u024F]/.test(ch) || (ch >= "\u0900" && ch <= "\u097F"))).length;
+  if (other / letters.length > 0.2) return false;
+  const words = text.toLowerCase().replace(/#\S+/g, " ").match(/[a-z\u00C0-\u024F']+/g) ?? [];
+  let enHi = 0;
+  let foreign = 0;
+  for (const w of words) {
+    if (EN_HI_WORDS.has(w)) enHi++;
+    else if (OTHER_WORDS.has(w)) foreign++;
+  }
+  return foreign <= enHi;
+}
+
+/** True when the caption contains one of niche.excludeTerms (formats the user can't shoot, e.g. recipes or workouts). */
+export function isExcluded(caption, niche) {
+  const terms = niche?.excludeTerms ?? [];
+  if (!terms.length) return false;
+  const text = String(caption ?? "").toLowerCase();
+  return terms.some((t) => termMatches(text, t));
 }

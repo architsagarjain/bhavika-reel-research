@@ -1,0 +1,10 @@
+{
+  "provider": "sandcastles",
+  "searchProvider": "sandcastles",
+  "inboxPath": "inbox.txt",
+  "windowHours": 24,
+  "maxWindowHours": 48,
+  "minViews": 2000,
+  "transcription": "auto",
+  "myHandle": ""
+}
