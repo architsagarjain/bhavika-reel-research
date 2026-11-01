@@ -72,6 +72,11 @@ This kit runs in Claude Code cloud sessions, not on a laptop. Cloud sessions are
 | `/outliers [--48h]` | `.claude/skills/outliers/SKILL.md` | Runs the niche searches and builds the outlier report |
 | `/research-setup` | `.claude/skills/research-setup/SKILL.md` | First-run wizard: data source, niche, voice, Shortcut, self-test |
 
+Also installed in `.claude/skills/`: 13 Instagram skills (`ig-reel`, `ig-viral`, `ig-plan`, `ig-caption`, `ig-carousel`,
+`ig-story`, `ig-dm`, `ig-audit`, `ig-profile`, `ig-comment`, `ig-reply`, `ig-repurpose`, `ig-human`; they keep state in
+`instagram/` and read `voice.md`) and the coreyhaines31 marketing skills (copywriting, social, content-strategy, ads and
+more). These come from other repos; the self-test checks them for secrets but not for em dashes.
+
 Provider details live in `providers/`. Read the matching file before using a provider for the first time in a session:
 `providers/sandcastles.md`, `providers/apify.md`, `providers/yt-dlp.md`, `providers/any-source.md`.
 The provider contract (what fields every source must supply) is `providers/README.md`. Field reference: `docs/schema.md`.

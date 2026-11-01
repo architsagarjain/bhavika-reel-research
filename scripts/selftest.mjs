@@ -203,6 +203,10 @@ try {
   const offenders = [];
   const tokenRe = new RegExp(["apify", "_api_", "[A-Za-z0-9]{10,}"].join(""));
   const emDash = String.fromCharCode(0x2014);
+  // Skills installed from other repos (ig-*, marketing skills) keep their authors' style; the token check still applies.
+  const ownSkills = new Set(["outliers", "reel-research", "research-setup"]);
+  const skillsDir = path.join(ROOT, ".claude", "skills") + path.sep;
+  const isThirdPartySkill = (fp) => fp.startsWith(skillsDir) && !ownSkills.has(fp.slice(skillsDir.length).split(path.sep)[0]);
   (function walk(dir) {
     for (const name of readdirSync(dir)) {
       if (skip.has(name)) continue;
@@ -211,7 +215,7 @@ try {
       else if (/\.(mjs|js|json|jsonl|md|txt|svg|html|example)$|^\.(gitignore|env\.example)$/.test(name)) {
         const text = readFileSync(fp, "utf8");
         if (tokenRe.test(text)) offenders.push(`${path.relative(ROOT, fp)} (token-like string)`);
-        if (text.includes(emDash)) offenders.push(`${path.relative(ROOT, fp)} (em dash)`);
+        if (text.includes(emDash) && !isThirdPartySkill(fp)) offenders.push(`${path.relative(ROOT, fp)} (em dash)`);
       }
     }
   })(ROOT);
